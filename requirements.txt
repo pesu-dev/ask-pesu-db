@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-core==0.3.75
+langchain-google-genai==2.1.10
+langchain-qdrant==0.2.0
+
+sentence-transformers==5.1.0
+transformers==4.56.0
+torch==2.8.0
+
+qdrant-client==1.15.1
