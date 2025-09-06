@@ -1,0 +1,21 @@
+{
+  "title": "dsa",
+  "content": "planning to start dsa(just got done with my 1st sem) is the striver dsa course along with leetcode problems or do we need anything extra to start off with?",
+  "metadata": {
+    "id": "1ifzk8d",
+    "author": "Regular-Beautiful-71",
+    "url": "https://www.reddit.com/r/PESU/comments/1ifzk8d/dsa/",
+    "permalink": "/r/PESU/comments/1ifzk8d/dsa/",
+    "score": 21,
+    "upvote_ratio": 0.89,
+    "created_utc": 1738509929.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Its a little too early for DSA. You should focus on learning C thoroughly first. Most people choose C/C++ to solve DSA and prepare for placements. Also, this isn;t the time to prepare for placements either. You are just in 2nd sem: you have a lot of time for this. Now is the time to actually learn things, figure out your interests, build projects and develop skills in your field of interest and so on. People seriously take up placement prep only from 5th sem, with 90% of them doing it only from 6th sem.\n\nThere are more details on FAQs about this if you'd like a more detailed version.\n└── So do you recommend web/app development or aiml or smthng like that before DSA?\n    ├── Depends on your interests, but yes: find your niche.\n    │   └── thanks\n    └── DSA first always, get a hold on a particular language, it will definitely help you in dev as well.",
+    "Neetcode sheet but keep exploring.",
+    "try [codeintuition.io](https://www.codeintuition.io)",
+    "Striver's is excellent for DSA, and the links that are provided in the striver sheet for a particular problem are leetcode problem links, so yeah, they're almost one and the same."
+  ]
+}

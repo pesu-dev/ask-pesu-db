@@ -1,0 +1,18 @@
+{
+  "title": "Check this out!",
+  "content": "Hi all,\n\nJust wanted to share a small Chrome extension I put together called **Simple Tab Session Saver**. I built it mainly because I needed a better way to save all the tabs related to different classes without cluttering things up.\n\nHere's what it does:\n\n* **Save:** Select open tabs, give the group a name, and save it.\n* **Restore:** Opens all tabs from a saved session in a **new window**.\n* **Manage:** Preview tabs in a session, edit session names, search your saved list.\n* **Customize:** Choose light or dark mode.\n\nIt's nothing too fancy, just aims to be a helpful tool for staying organized with browser tabs. Figuring out how to build it was fun.\n\nYou can find it on the Chrome Web Store (it's free): [https://chromewebstore.google.com/detail/simple-tab-session-saver/fdffmopbfnipkbaiikphcnlmdgeodjpc?authuser=0&amp;hl=en-GB](https://chromewebstore.google.com/detail/simple-tab-session-saver/fdffmopbfnipkbaiikphcnlmdgeodjpc?authuser=0&amp;hl=en-GB)\n\nIf you end up trying it, I'd love to hear any feedback! Hope it might be helpful for some of you too. 🙂  \nCounting on reddit for some support :)",
+  "metadata": {
+    "id": "1kdmhf9",
+    "author": "WarningNo2793",
+    "url": "https://www.reddit.com/r/PESU/comments/1kdmhf9/check_this_out/",
+    "permalink": "/r/PESU/comments/1kdmhf9/check_this_out/",
+    "score": 34,
+    "upvote_ratio": 0.96,
+    "created_utc": 1746253885.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Quick question, how is this different from the grouping of tabs on Chrome? \n\nFrom a cursoary glance it seems to do the same - group tabs, save sessions, restore, etc.\n└── You are right, they both function the same, the difference I wanted to create was a UI to handle the process of creation, handling and searching of those groups making it more intuitive and relatively easy :)\n\nThe idea behind this project was to try a few things out and get familiar with the process of hosting extensions, not often do people look at them as plausible projects. Ideating and implementing on another one which will be more like an interactive platform, if anyone is interested, do reach out"
+  ]
+}

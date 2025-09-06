@@ -1,0 +1,19 @@
+{
+  "title": "FullStack for placements??",
+  "content": "So I'm a AIML student currently in my 6th semester, with 8 GPA. I didn't get any on campus internships and I'm not interested in joining research centers.\nMy only goal is to get placed. I have decent knowledge of ML, DSA, and other core subjects, but I can't get my head over WebDev or software development in general. \nI thought of learning full stack development in summer. What I'm not sure is about the kinda job I'll get placed in (since there are very few ML jobs). So for SDE roles is it necessary to know about full stack development?",
+  "metadata": {
+    "id": "1k3171w",
+    "author": "Ancient-Scallion-761",
+    "url": "https://www.reddit.com/r/PESU/comments/1k3171w/fullstack_for_placements/",
+    "permalink": "/r/PESU/comments/1k3171w/fullstack_for_placements/",
+    "score": 28,
+    "upvote_ratio": 1.0,
+    "created_utc": 1745082767.0,
+    "flair": "Placements 🤑",
+    "nsfw": false
+  },
+  "comments": [
+    "Most Companies hiring for freshers dont expect them to know much about full stack. Their usual metric to evaluate a fresher is Mostly aptitude and DSA. There is always an arguement of whether web development is saturated in the current market. But i would suggest learning the basic and fundamental parts of web development if you cant get your head over it in general.\n\nThings like API Development , REST API , Authentication,Authorization etc are parts which are used in other FIelds apart from web as well.\n\nLearning how the internet works,The OSI model,HTTP protocol etc are also things that should be known.\n\n  \nIF Your goal is to get placed grind DSA , learn subjects like CN,OS,DBMS and OOPS and learn these basic web development fundementals.\n\nMany Companies focus on your understanding of fundaments rather than How much better you know a particular framework. So Dont break your head too much if you get overwhelmed by web dev.\n\nCompanies also mention what their requirement is in a Job description Document while hiring.\n├── Thanks  bro 🙏🏻\n└── But for any project we make on our own, web dev is required right?\n    └── Did not understand your question honestly , if your asking making personal projects require web dev knowledge , then the answer is no , because there are many projects  to do without it as well.  \nits a good Skill to have in order to make projects , its not Required.\n        └── Thanks! that was my question.",
+    "Just focus on DSA and CS fundamentals, and keep some good projects (could be any tech) on your resume.\n└── ok 🫡\n    └── Yo bro can I dm?\n        └── Sure 👍🏻"
+  ]
+}

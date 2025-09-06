@@ -1,0 +1,19 @@
+{
+  "title": "CSE Courses ",
+  "content": "I am going to be joining PES CSE this year. I wanted to do some courses in CS as I'm bored in the summer. I tried starting out with CS50 by Harvard but I watched the first few lectures and got really bored. It was too basic for me and I couldn't watch it for too long. I've studied CS in 10th grade and as I was always interested in coding, I have perfected the PUC CS too. I have a good idea of how loops work etc so i wanted to ask the seniors for CS courses that aren't too basic. Please recommend some.",
+  "metadata": {
+    "id": "1d5grct",
+    "author": "DotEmbarrassed664",
+    "url": "https://www.reddit.com/r/PESU/comments/1d5grct/cse_courses/",
+    "permalink": "/r/PESU/comments/1d5grct/cse_courses/",
+    "score": 12,
+    "upvote_ratio": 0.93,
+    "created_utc": 1717223490.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "CS isn't about learning programming languages, it is about solving problems. You should explore different domains, see what they offer, and find the one that interests you. This will help you identify the field you want to get into and what career you want to pursue. \n\nCheck out [https://roadmap.sh/](https://roadmap.sh/) - it contains good roadmaps to follow for different fields. The only way to determine your interest is to eliminate those you aren't interested in. Try the \"hello world\" equivalent of each field until you can narrow down your interests to 1-2 fields. Once you do that, you can specialise in that by learning more about it. If you face a situation where you are unsure about a field, go beyond the \"hello world\" equivalent and try the \"factorial\" equivalent.\n\nAlso, I always recommend the [MIT Missing Semester Course](https://missing.csail.mit.edu/) to incoming CS (and anyone trying to land an IT job). Given its name, it's meant to cover various tools/skills that a CS engineer should have. These topics are not covered in any course (like version control, shell scripting, etc) but are a standard requirement when you join the industry and are needed daily at work.",
+    "Start learning django, learn how to use flask."
+  ]
+}

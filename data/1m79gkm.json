@@ -1,0 +1,19 @@
+{
+  "title": "[Question]5th Sem CS Student  Don't Like JS, Should I Start with Rust or Go for Projects?",
+  "content": "I'm about to enter my 5th semester and currently focusing on DSA. I also want to start building projects to strengthen my resume. The problem is, I really don't enjoy working with JavaScript, and most project tutorials or stacks seem to revolve around it. I'm considering starting with Rust or Go instead. Both seem interesting, but I’m not sure which would be a better pick for building real-world projects that also look good on a resume.",
+  "metadata": {
+    "id": "1m79gkm",
+    "author": "CollectionDue5394",
+    "url": "https://www.reddit.com/r/PESU/comments/1m79gkm/question5th_sem_cs_student_dont_like_js_should_i/",
+    "permalink": "/r/PESU/comments/1m79gkm/question5th_sem_cs_student_dont_like_js_should_i/",
+    "score": 12,
+    "upvote_ratio": 0.94,
+    "created_utc": 1753277781.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Yes, don't shy from delving deeper into any of these. Your colleagues might do very different things don't be influenced.Follow your curiosity.Rust, Go, Python are the only 3 languages on my resume.Go deeper learn about Systems Engineering, implement your own Mutex or a RwLock or your very own Load Balancer from scratch.Most importantly do open source contributions, understanding large codebases and being able to make changes in it will teach you no DSA or Full Stack course ever will. Whatever you do just go deeeep.I don't even have a single UI based project on my resume.Still landed a pretty good remote internship with a very shitty gpa.\n└── Thank you",
+    "Rust and Go and great choices. However if your looking for projects that you want to look good on resume Try Java and Springboot. Many MNC's use this and Honestly the MERN Stack slop is just spread like disease and very few ppl know about springboot before 6th Sem.\n\nrust has a different learning curve compared to other languages and go lang has a unique way of implementing OOPS with other fun stuff.\n└── Thank you"
+  ]
+}

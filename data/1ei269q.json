@@ -1,0 +1,20 @@
+{
+  "title": "Speculative CoB seat-matrix: '27 batch",
+  "content": "",
+  "metadata": {
+    "id": "1ei269q",
+    "author": "polarhive",
+    "url": "https://docs.google.com/spreadsheets/d/1Dk1iM628IJ90TWxmGezXEa8_0wl8i_hdGebnLnTpGK8/edit?gid=131145570#gid=131145570",
+    "permalink": "/r/PESU/comments/1ei269q/speculative_cob_seatmatrix_27_batch/",
+    "score": 19,
+    "upvote_ratio": 1.0,
+    "created_utc": 1722576524.0,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    "Somebody used selenium to it's core\n├── You can do it without selenium too\n└── I think OP used beautiful soup but yeah this can be done with selenium too\n    └── Yeah it can be done with BeautifulSoup, I used selenium once it was kinda easier...",
+    "Hi folks, I've roughly estimated the number of vacant seats across all branches following the second semester. \n\n\nI haven't confirmed whether the SRNs highlighted in bold have either dropped out or have not been assigned to new sections.",
+    "Good effort, but I think 9 in CS RR and 0 in BT is kinda highly unlikely. 15 in CS EC can be expected.\n└── CS EC is 6, not 15. The total CS RR+EC is 9+6 = 15."
+  ]
+}

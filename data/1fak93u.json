@@ -1,0 +1,18 @@
+{
+  "title": "How to study signals and systems",
+  "content": "Though it's a 5th sem subject for EEE but this year these ppl pulled this up in 3rd sem to align it with ECE.cant understand anything in the subject.\nAny yogic recommendations/notes?",
+  "metadata": {
+    "id": "1fak93u",
+    "author": "[deleted]",
+    "url": "https://www.reddit.com/r/PESU/comments/1fak93u/how_to_study_signals_and_systems/",
+    "permalink": "/r/PESU/comments/1fak93u/how_to_study_signals_and_systems/",
+    "score": 8,
+    "upvote_ratio": 0.91,
+    "created_utc": 1725642131.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Unit 1, 2 and 5 are the easiest ones. Focus on those first. Unit 1 has almost nothing new, it's all basic signal stuff that you porbably know already like addition of signals, multiplication of signals, odd and even signals and stuff. There are a few more properties but they're pretty easy once u solve some numericals. You should be able to easily get 18-20 in this unit  \nUnit 2 is all about LTI systems if I remember correctly. Just read the theory from the slides and look at the numericals on yt.  \nUnit 3 and4 are fourier transform so there's a lot of overlap with math, so just search the topic names on youtube and you'll find plenty of vids explaining the topics with solved numericals. solve as man numericals as possible, these are the hardest units  \nUnit 5 is again pretty chill. Not as easy as Unit 1 but its still pretty easy. There's a youtube playlist on Z transform on a channel, I don't remember which, but if you do that, you should be set for u5.  \nHope this helps :)\n└── Please recommend yt channel for sas"
+  ]
+}

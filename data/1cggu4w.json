@@ -1,0 +1,20 @@
+{
+  "title": "Macbook",
+  "content": "Planning to buy macbook air, will it be worth it, I don't play any games. Will I be able to do all my assignment or is it better to get an windows for students? ",
+  "metadata": {
+    "id": "1cggu4w",
+    "author": "Resident_Mark_2338",
+    "url": "https://www.reddit.com/r/PESU/comments/1cggu4w/macbook/",
+    "permalink": "/r/PESU/comments/1cggu4w/macbook/",
+    "score": 7,
+    "upvote_ratio": 0.89,
+    "created_utc": 1714441390.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "You'll be able to get through academics completely fine with a macbook (CS) \n\nHOWEVER, you'd be better off with a ThinkPad or some other windows laptop. The main reason being Linux. The Linux experience is almost essential to understand how your computer works and it would be very helpful in your career. No matter where you go, you'll find Linux and knowing your way around a Linux terminal is essential. \n\nYou won't get the Linux experience on MacBooks (yet, Asahi linux is making great progress but most packages aren't compiled for aarch64) \n\nI made the mistake of buying a macbook air for college. I went along with the 'macbook is the best' and 'apple silicon is the most efficient' hype train. Apple silicon is very efficient. But if you're a mechanic learning to build a car, you'd rather have an old Toyota you can screw around with rather than having a pristine merc or Volvo.\n├── Perfect answer, thanks a lot.\n└── that’s not completely true, a lot of my brothers friends are working in companies which provide Mac’s for work depends on where you go\n    └── I didn't say you can't get work done on a mac. I said if you want to dig into learning how the computer works, a mac isn't your tool.",
+    "If all you use is VS code then mac is alright. But if you belong to ece/eee where softwares like LT spice, ripes, etc are required then you will have a lot of trouble downloading them (half of them don’t work at all).  Some courses require you to run ubuntu on you system which is difficult to run on mac.\n\n\nEven softwares like postgreSQL ( DBMS cs course) will need you to enable special permissions for it to function correctly. It might have improved but I’d rather not risk it. I have the m1 MacBook air which I bought on launch day if thats relevant.\n\nBest go with a windows laptop which has a decent graphics card and 16gb ram MINIMUM. You can dual-boot ubuntu on a separate ssd if the machine supports 2 ssd cards. \n\n\nOf course the macbook has its own pros like extremely good battery life, display, speakers, etc, but the cons outweigh the pros by a lot. \n\nIts not like you would be screwed if you buy a Macbook lol. It would just take extra effort downloading and configuring softwares.\n└── After research I feel for student life windows is best. ",
+    "Mandatory requirement : 16gb ram\n├── Okay, is the latest gen really required becouse 14th gen is very expensive. \n│   └── not necessary... try to find a processor with good clock speed, i7-13th gen is also good.. HX series gives best performance but battery consumption is high.\n└── Is 8 gb ddr5 enough?\n    └── no... but u can buy a laptop which has upgradable ram (8gb base.. but ram can be upgraded if needed) and upgrade to 16gb under 3k in SP road"
+  ]
+}

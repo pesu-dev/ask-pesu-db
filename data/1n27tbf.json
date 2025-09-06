@@ -1,0 +1,19 @@
+{
+  "title": "[Question] what kind of questions are asked in the webtech exams?",
+  "content": "same as above",
+  "metadata": {
+    "id": "1n27tbf",
+    "author": "Careful_Refuse_2638",
+    "url": "https://www.reddit.com/r/PESU/comments/1n27tbf/question_what_kind_of_questions_are_asked_in_the/",
+    "permalink": "/r/PESU/comments/1n27tbf/question_what_kind_of_questions_are_asked_in_the/",
+    "score": 23,
+    "upvote_ratio": 1.0,
+    "created_utc": 1756374134.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "This year syllabus is new.  \nBut looking at the syllabus i can see some topics which can come :  \n1) HTTP status codes and their names , Difference between GET,POST,PUT,DELETE requests.  \n2) Css selectors.  \n3) javascript - const,var,let difference .  \n4) Hoisting and var scope (comes almost every time).  \n5) callback vs promises vs async/await (dealing with callback hell)  \n6) Http form submission   \n7) Stateful vs stateless components in React.  \n8) React Styling - inline styling , import css file etc\n└── Lmao why dont they teach Angular in PES?\n    └── React is fine i think , they have added nextJs as well this year.\n        └── Best, thats cool !!",
+    "completely based on your Code Examples"
+  ]
+}

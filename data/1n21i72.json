@@ -1,0 +1,21 @@
+{
+  "title": "[Question] Help me decide whether dsa in Java or c++ which is better",
+  "content": "So as aiml student according to curriculum and overall stuff which language dsa is preferable and why \nI've checked the syllabus but it is extremely c++ oriented is it like that only irl? and what's your opinion on taking java will it be stressful?",
+  "metadata": {
+    "id": "1n21i72",
+    "author": "kusagariX",
+    "url": "https://www.reddit.com/r/PESU/comments/1n21i72/question_help_me_decide_whether_dsa_in_java_or_c/",
+    "permalink": "/r/PESU/comments/1n21i72/question_help_me_decide_whether_dsa_in_java_or_c/",
+    "score": 8,
+    "upvote_ratio": 1.0,
+    "created_utc": 1756351071.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "If your doing dsa try c++ it's better doing it in that.\n└── Thank you",
+    "I would recommend C++",
+    "C++ is best for DSA",
+    "I'd recommend python or java.\n└── nahh python is a big No - like some companies dont even allow python in their OAs (Interviews ig its fine)\n\nAbout Java - Its Fine for 98% of companies (Some companies like AMD and other semiconductor/embedded roles still ask for cpp)  \nBut again once U get into a Job Java is widely used for application development\n\nso for DSA I would say - cpp is the best  \nGood to know for Jobs once u get in - Java and Python\n    ├── Python is slow as fuck, use C++ or java, much better.\n    └── What about C?\n        └── It's a pain to do some things in C \nLike manual memory allocation etc (it's good for some use cases but not for dsa)\nFor dsa cpp stl library makes the job easier \nAnd cpp is very easy to learn once u learn c"
+  ]
+}

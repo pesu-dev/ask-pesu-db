@@ -1,0 +1,20 @@
+{
+  "title": "[Discussion]anyone know how to fix this vm error",
+  "content": "https://preview.redd.it/s8rdx0glltif1.png?width=617&amp;format=png&amp;auto=webp&amp;s=e0543b18aa47118ddbd2fe2fae9d41b276c99143\n\ni am gettign this stupid error whenever i try to launch ubuntu   \ni know this is a educationaL CHANNEL but i couldnt find any solution online and i have been working on this from past 6 hours to fix this shit ",
+  "metadata": {
+    "id": "1mpajs9",
+    "author": "Then-Tradition-6284",
+    "url": "https://www.reddit.com/r/PESU/comments/1mpajs9/discussionanyone_know_how_to_fix_this_vm_error/",
+    "permalink": "/r/PESU/comments/1mpajs9/discussionanyone_know_how_to_fix_this_vm_error/",
+    "score": 8,
+    "upvote_ratio": 0.91,
+    "created_utc": 1755105536.0,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    "Is this oracle virtual box, have you tried using vmware?",
+    "https://www.oracle.com/virtualization/virtualbox/\nDownload from this, should work\n└── is it different vm??!!\n    └── It is the same vm, but vm downloaded from here works properly. Other sites may have outdated versions which you may have downloaded. I too got this error initially, then I downloaded from the site which I linked previously, and was working fine",
+    "just a friendly suggestion, you can post in discord, u may get faster responses"
+  ]
+}

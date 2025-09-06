@@ -1,0 +1,20 @@
+{
+  "title": "[Question] is bigdata really useful in the future?",
+  "content": "Is bd actually helpful or just a gimmick ",
+  "metadata": {
+    "id": "1mi7jg1",
+    "author": "Radiant-Contract-460",
+    "url": "https://www.reddit.com/r/PESU/comments/1mi7jg1/question_is_bigdata_really_useful_in_the_future/",
+    "permalink": "/r/PESU/comments/1mi7jg1/question_is_bigdata_really_useful_in_the_future/",
+    "score": 10,
+    "upvote_ratio": 1.0,
+    "created_utc": 1754396116.0,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    "Big Data is arguably one of the most useful courses you can take up. Data is exploding, and this course teaches you ways to store and manipulate the large data. It's very industry relevant, and also very closely follows industry specifics. If you do end up in a Data engineering role like I did, you'll see that the course is basically a scaled down version of industry relevant tools, techniques and concepts: Hadoop, Spark, Kafka, Zookeeper etc.\n\nIt's also one of those courses that lead to a strong project for your resume, and having a very updated curriculum. Plus, whether you end up in a Data engineering role, ML, etc, you will end up using these concepts to some degree. It's one of those courses that opens up the tools needed for various other fields.\n├── What can I pair it with (other elective)\n│   ├── Idk what other electives you have.\n│   └── Data Analytics\n├── What about data analytics ?\n└── They've removed the project now and made it a hackathon (tentatively for 8 hours). So assuming there's no resume worthy project coming out of this course, would the learning here outweigh an easier GPA boosting course (like Image Processing) in your opinion?",
+    "actually super useful. a lot of places use spark and kafka for large scale data processing. you also learn a lot about distributed systems, which are literally _everywhere_ right now.",
+    "At the level that it's taught at the PESU course, you won't learn much about the system internals of any of those systems. You'll learn to use them which will make you a superstar at work for 3 weeks until everyone else catches up (because using Spark and Hadoop is trivial, and writing/understanding Scala is too, especially in the time of LLMs).\n\nDepends on what you're looking for from the course"
+  ]
+}

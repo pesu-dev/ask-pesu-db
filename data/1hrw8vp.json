@@ -1,0 +1,21 @@
+{
+  "title": "How do I get out of tutorial hell?",
+  "content": "Hey I'm a 2nd year Cs student here , I've been trying to learn Go in the past few weeks during our sem break and followed some videos of go from freecodecamp academy on YouTube  , tried even building some projects from those videos but the thing is when ever I try to do something outside that I'm completely clueless and lost . This has happened to me multiple times before when I try to learn something but unable to do shit outside whats shown in a video. Pls help me get out of this tutorial hell .",
+  "metadata": {
+    "id": "1hrw8vp",
+    "author": "Extra_Good_5214",
+    "url": "https://www.reddit.com/r/PESU/comments/1hrw8vp/how_do_i_get_out_of_tutorial_hell/",
+    "permalink": "/r/PESU/comments/1hrw8vp/how_do_i_get_out_of_tutorial_hell/",
+    "score": 36,
+    "upvote_ratio": 0.92,
+    "created_utc": 1735831791.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Step 0: Find a real life problem you want to solve  \nStep 1: Break the problem down  \nStep 2: Google. More often than not, someone else has had the same problem. Don't you dare ChatGPT, it'll lead you down a rabbit hole it hallucinated into existence. A few problems are 'ChatGPT-able' though. You'll eventually understand which ones are Google-able and ChatGPT-able.",
+    "I've built a few projects in Go, my advice would be to try and build something basic, like a CRUD application. But every time you get stuck trying to implement a feature, you should look up how to do that part only, not the entire feature. Dont be afraid to fail, once you realize you dont know something, learn it, and go back to implementing the rest. If you dont feel confident after having implemented one feature, implement something else. For example, if you're implementing a student management system (basic CRUD example), if you looked up how to implement \"Create Student\" endpoint, maybe next time try implementing \"Create Department\" on your own.\n\nlet me know if this cleared it up.",
+    "Go specific answer- check out Gophercises by Jon Calhoun\n\n\nFamiliarize yourself with the syntax of Go first by writing basic ass programs (hello world, Fibonacci, fizzbuzz type of things) and then go to Gophercises which takes you through lots of cool stuff like basic CRUD apps, and also things like channels and goroutines which are the secret sauce of all production Go code\n\n\nWishing you all the best and hope you enjoy it because Go is an absolute gem of a programming language and something that's here to stay because lots of cloud native tools are implemented in Go \n(https://gophercises.com/)\n\nEDIT: learning modern languages like Go and Rust also involves learning the tools that they come with, including package and dependency management. While doing Gophercises, pay some attention to package management in Go because it's one of the key skills to know\n└── Will second this, its a great resource.",
+    "Work on a small project or implement what you learnt on a project you already have, just try changing it to that language of possible."
+  ]
+}

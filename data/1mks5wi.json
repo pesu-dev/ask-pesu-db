@@ -1,0 +1,24 @@
+{
+  "title": "[Question]Macbook air m4 for cse(aiml)",
+  "content": "I am confused between a macbook air m4 and a windows laptop with gud spec(ryzen 7 +rtx4060)\nI don't intend to game just tht people told me dgpu is preferred in aiml.\nProlly getting mac tho.\nWill I face issues(slow processes or incompatility)\n",
+  "metadata": {
+    "id": "1mks5wi",
+    "author": "channykakarot",
+    "url": "https://www.reddit.com/r/PESU/comments/1mks5wi/questionmacbook_air_m4_for_cseaiml/",
+    "permalink": "/r/PESU/comments/1mks5wi/questionmacbook_air_m4_for_cseaiml/",
+    "score": 4,
+    "upvote_ratio": 1.0,
+    "created_utc": 1754650942.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "In general Mac isn't recommended for college level cs engineering\n└── just for the first year it is a bit of hassle but in further years where is macbook facing problems?",
+    "There are many softwares we use in class that are not available in Mac \n\nI have seen many of my friends regret buying Mac lol\n└── Just use a VM for those softwares",
+    "Nothing really compares with mac in the build quality and battery life at that price point. As someone who owned both a high end windows laptop and the m4 air, I take the latter any day of the week. You do compromise on compatibility in some cases tho. 90% does the job. Your call\n└── How do you deal with other 10% ?\n    └── Emulation, if that’s available, or using a windows vm\n        └── Hey just wanted to know ,I'm going to buy mac m4 , so will the softwares required in 2nd year run smoothly on mac or not, also will i face any problems in 3rd and 4th year?? Did u face any problems in 2nd year  and how did u deal with it??  (PS: Sorry if I come off as desperate but I really want to buy a mac rn so.. is it a better buy then windows or not??) TT\n            └── 95% work",
+    "ahh first world problems /s , tbh i think windows is much better cause u have much more software liberty",
+    "Yeah mac is better in most cases and a good investment long term too. Only if you plan on using the laptop more for gpu heavy work, then take ryzen. For me, there was no compatibility issue with anything on mac so far, always had some emulator replacement for it.",
+    "I am rn having a gtx 1650 laptop bro it's more than enough for any task u put on it , the only advantage with macbook u will get is the battery backup . Rest cons are it being mac , and rtx 4060 is superior ofc .. so just go for the rtx one bro trust me",
+    "you can also take an m1 and it will do you just fine. if your willing to pay up for a m4, you can go for that as well."
+  ]
+}

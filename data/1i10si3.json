@@ -1,0 +1,20 @@
+{
+  "title": "Data Science ",
+  "content": "So I'm a first year student and I'm willing to learn something to help me in future. I've a keen interest in data science as a field and I'm thinking to start learning it. Do the companies that come in our college take students in this field or will they only hire on dsa and dev skills? ",
+  "metadata": {
+    "id": "1i10si3",
+    "author": "Inevitable_Fun8403",
+    "url": "https://www.reddit.com/r/PESU/comments/1i10si3/data_science/",
+    "permalink": "/r/PESU/comments/1i10si3/data_science/",
+    "score": 18,
+    "upvote_ratio": 1.0,
+    "created_utc": 1736839785.0,
+    "flair": "Placements 🤑",
+    "nsfw": false
+  },
+  "comments": [
+    "A few do, but most visit and recruit under the generic \"SWE\" placeholder role and then assign you to a team. The team assignment depends on how you perform during interviews, whether your profile shows any alignment with an existing team and depends on the existing team's requirements. If you cannot show any such alignment, you usually get assigned randomly.\n\nEither way, you must have a good grasp of DSA to clear the aptitude test. Based on your luck, your interviews will also comprise DSA in varying amounts. \n\nThere is a longer answer of mine which discusses DSA vs skills in detail. Its in the FAQs. Here are the links:\n\n1. [https://www.reddit.com/r/PESU/comments/148kf62/comment/jo16nkc/](https://www.reddit.com/r/PESU/comments/148kf62/comment/jo16nkc/)\n\n2. [https://www.reddit.com/r/PESU/comments/12bdawn/comment/jewdwb9/](https://www.reddit.com/r/PESU/comments/12bdawn/comment/jewdwb9/)\n├── Thank you for your reply!\n└── Absolutely not many people actually take people directly for niche areas, unless it's web development, but they take you in for a swe role, basically dsa matters",
+    "On campus not many companies come for Data Scientist or Machine Learning role (Like only 3-4 companies max). But currently Data science is trending in market and is expected to grow exponentially till 2030, so pretty good field. Lot of Opportunities are available off campus for ML/DS (I am working as a Data Scientist currently...)",
+    "Are you aware about kaggle.com?\n\nIt has courses begining all the way from beginner python to deep learning. Free btw.\n\nYou don't need to learn from there. See what topics they are teaching and in what sequence and start from a topic you feel you are proficient with anything below it. Start learning those topics from other sites and use kaggle as excercise.\n\nExample:\n\n1. Python basics\n2. Numpy basics\n3. Pandas and matplotlib\n4. Linear regression\n5. SVM\n6. Tree classifier\n7. Neural networks\n8. Convolutional Neural network\n\nIf you are someone who knows untill Linear regression, learn topics after it from wherever you like and come back here to solve excercise problems.\n\nAlso there are good example notebooks for basically every model/algorithm/problem on kaggle. If you wanna deep dive into learning how and when to use any particular model, you will find a notebook for it. Also soo many datasets for learning/practice."
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Blocked Everything 😭😑",
+  "content": "Enjoy guys 😂 blocked everything except pesu academy... Even github and vs extensions  are blocked. .. WELCOME TO PESU 😂",
+  "metadata": {
+    "id": "1fixpyi",
+    "author": "Stealth_Whiz",
+    "url": "https://i.redd.it/0908qxwp3dpd1.jpeg",
+    "permalink": "/r/PESU/comments/1fixpyi/blocked_everything/",
+    "score": 44,
+    "upvote_ratio": 0.81,
+    "created_utc": 1726575621.0,
+    "flair": "Rant :snoo_facepalm:",
+    "nsfw": false
+  },
+  "comments": [
+    "I guess you need to login on some portal with some credentials, that will trigger session on firewall (in this case it's sophos) then you can browse internet.\n\nEDIT: Try to visit http://neverssl.com, then it will redirect you to that particular login portal",
+    "You clearly didn't login to the sophos internet portal\n├── U get net after u give ur pesu credentials in the portal\n└── Didn't PESU have some wifi SSID named **eduroam** ?\n    └── Not sure idk",
+    "And btw i dont think GitHub and vs code extensions are banned, u just didnt login to ur portal cause probably u dont have the password till now. U need to sign in to 192.168.254.1 after connecting to wifi\n└── &gt;192.168.254.1\n\nWait!! You guys don't have ip address starting with 10.0.0.0/8 ?\n    └── No, just login to 192.168.254.1 ( type manually in browser) should open the portal and login when u have the password 🔑",
+    "Are you sure you're logged in on the portal? It lets you access pesuacademy even without logging in but you need to be logged in to access anything else.\n└── &gt; It lets you access pesuacademy even without logging in\n\nYes, that's the obvious behavior, becoz the web server ( pesuacademy ) is hosted somewhere in the campus, and that's reply back to your browser request.\n\n&gt;but you need to be logged in to access anything else.\n\nYou need to login becoz it will create a session on firewall ( RN firewall is blocking user to go outside the internal network, if the session is created and once user entry is saved then firewall allow him/her to access internet and all the user activities are been logged by firewall ).",
+    "???,Github can be accesed once you login to pesu portal with credentials",
+    "tailscale and a exit node.....\n└── Speed is awful\n    └── speed ? that will depend on your exit node, because tailscale itself has no speed limit as long as you are not connected over a DERP relay\n        └── Last time I was able to connect to an exit node, I had an awful connection, like 5Mb/s. I tried it again today and now it just refuses to connect to my exit node.",
+    "NMIMS doing the same 😭",
+    "Just use data lol, plus it seems that u did not login to the portal \n└── Login portal in another window 😑",
+    "Use TOR bruh. ",
+    "Go study dsa",
+    "Welcome to PESU\nNO VPN WILL WORK\nEARLIER CLOUD FLARE WARP USED TO WORK, NOW EVEN THAT DOESN'T WORK.\n├── VPNs work dawg\n│   └── Which vpn works 🤓\n│       └── Openvpn + tcpvpn\n│           └── Will give it a try... previously didnt work for me...thnx🔑\n└── That's becoz, initially WARP doesn't works as a VPN, it's just a DNS resolver ( 1.1.1.1 ), but few months back the policies are changed and now it completely acts as a VPN ( internally it uses wireguard)\n    └── Damn, warp was so good, RIP\n        ├── You can even manage to bypass things if you find some loopholes in the network xD\n        ├── I know some good shit, but I gotta gatekeep\n        └── Use TOR , solves everything lol. ",
+    "Exactly I had the same problem. They want students to only study with no relaxation.",
+    "Literally the worst thing \nThat too in exam time \nIt’s the worst thing"
+  ]
+}

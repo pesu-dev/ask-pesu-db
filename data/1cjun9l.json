@@ -1,0 +1,21 @@
+{
+  "title": "Coding launguages needed for ECE students in 3rd and 4th sem",
+  "content": "Coding launguages needed for ECE students in 3rd and 4th sem\n",
+  "metadata": {
+    "id": "1cjun9l",
+    "author": "Academic_Tax8051",
+    "url": "https://www.reddit.com/r/PESU/comments/1cjun9l/coding_launguages_needed_for_ece_students_in_3rd/",
+    "permalink": "/r/PESU/comments/1cjun9l/coding_launguages_needed_for_ece_students_in_3rd/",
+    "score": 8,
+    "upvote_ratio": 1.0,
+    "created_utc": 1714807437.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "3rd sem \nVerilog,\nMatlab (i don't really count this as coding)\n└── 4th sem  - MATLAB mainly, and you will have some Tanner EDA tools to be used in lab, but tat is not coding tho.\n\nEssentially , ECE = no coding\n\ntry to shift to CSE, I suggest",
+    "As a ECE student regardless of semesters you should have good knowledge of scripting languages. Some commonly used scripting languages used in across (VLSI, Comm, DSP) industry are TCL, perl and python. Along with this, most of the tools work on Unix based OS- Linux. Therefore having knowledge of using CLI and shell (bash, csh) will be really helpful. \n\nApart from these the languages that u will learn in academic will be:  \n1. System(Verilog) for Design &amp; Verification  \n2. Matlab  \n3. Python for ML.   \n4. Embedded C ( elective )",
+    "cfbr",
+    "1) System verilog\n     2)Matlab"
+  ]
+}

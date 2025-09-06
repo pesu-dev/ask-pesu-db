@@ -1,0 +1,18 @@
+{
+  "title": "[Question] How are large-scale IP/CV or ML projects for Capstone done locally on your laptops?",
+  "content": "Hey folks, I'm currently planning to do Capstone in the space of Medical Image/Video Processing or Time-Series Analysis of Medical data. The volume of data in these domains are massive, spanning from 20-30 GB.  I want you to ask, whoever has worked on such a large-scale ML project, how could they run these on their systems for Capstone?  What systems/laptops did you use? What was your approach towards training these? I currently have an Intel Ultra 9 185H CPU with Intel Arc Graphics. Do you think I can run these locally? I tried running LLaMA 3.2 8B model locally, and the system abruptly crashed. This system couldn't even run DeBERTa 1.5B model, as well.",
+  "metadata": {
+    "id": "1ly01yt",
+    "author": "Astute-Dapper",
+    "url": "https://www.reddit.com/r/PESU/comments/1ly01yt/question_how_are_largescale_ipcv_or_ml_projects/",
+    "permalink": "/r/PESU/comments/1ly01yt/question_how_are_largescale_ipcv_or_ml_projects/",
+    "score": 8,
+    "upvote_ratio": 1.0,
+    "created_utc": 1752325676.0,
+    "flair": "Capstone 🏗️",
+    "nsfw": false
+  },
+  "comments": [
+    "Google colab pro.  never train or load LLMs locally on your laptop without using a GPU with the sufficient RAM to fit the LLM."
+  ]
+}

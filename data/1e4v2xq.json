@@ -1,0 +1,21 @@
+{
+  "title": "Going into placement, am I cooked ?",
+  "content": "Hey guys, So I've completed 6th sem, I have no prior experience in internships and have done minimal leetcode here and there, nothing substantial. Also I'm a 7.1 cgpa type of student, what are my chances of getting placed, and how do I go about my leetcode and other prep. Seniors in similar position, and those who landed interviews/jobs, how many leetcode problems should I solve everyday? What was your prep routine like.. any advice is much appreciated, especially from those in my cgpa bracket.",
+  "metadata": {
+    "id": "1e4v2xq",
+    "author": "Constant_Guard2949",
+    "url": "https://www.reddit.com/r/PESU/comments/1e4v2xq/going_into_placement_am_i_cooked/",
+    "permalink": "/r/PESU/comments/1e4v2xq/going_into_placement_am_i_cooked/",
+    "score": 29,
+    "upvote_ratio": 0.95,
+    "created_utc": 1721152214.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "My advice will be useful if you wanna target software  roles. To begin with just complete someone’s SDE sheet say strivers 150 problems. In the mean time try solving daily problems on LC and GFG. You can watch video series of luv Babbar’s OS, DBMS. For CN, do it topic wise such as OSI layers etc.  OOPS can do it from java T point. Before interview research about your interviewers, their expertise areas, if you are able to get their name.  \n\nBe prepared for interview questions such as “introduce yourself”. Research about the organisation, its competitors, their market products, current market stance. It would show the interviewer that you are actively following their organisation. \n\nConnect to your college seniors who got hired into the same organisation, ask them about their interview experience.\n└── Alright, thanks 👍",
+    "You cant change your cgpa now , do what you can do is what a Senior told me , grind dsa ,make good projects ,do certifications ,make a good resume to highlight these\n├── To be honest yea, I'm proud of my gpa, I've worked hard for this, ik it's less but none the less not easy, having said that what does grind DSA entail, what should my ideal pace be, how many problems should I aim to solve in a day?\n├── Where do I get these certifications from?\n└── A senior ik had 9+ and got only 1 9lpa offer so cgpa isnt everything bro relax, dont think about the chances and all ,just put in the effort",
+    "Start with strivers 150 sheet, be thorough with all the main data structures and algorithms. Your core concepts of DBMS, OS, CN, OOPS are equally important. Also be completely thorough with the projects you list on your resume like you should be able to answer any question they throw at you regarding the projects. If you get shortlisted for the company’s interviews search about their interviews on glassdoor and other websites. You need to have a lot of luck on your side as well, all the best.",
+    "My situation is the same except my father works in IT, so I'd probably have a better chance getting job through his referrals than in this shit college"
+  ]
+}

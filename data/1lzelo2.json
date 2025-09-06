@@ -1,0 +1,19 @@
+{
+  "title": "[Question] OA language restriction",
+  "content": "I recently gave an OA for the flipkart grid challenge on hirepro and it did not allow python. Only C, Cpp, Java, Go were allowed. This really threw me off since I mainly do dsa in python.\nI don't want language compatibility to be an issue for any sort of college internship/placements OA. Should I switch to cpp or just stick to python? (Is it only a flipkart/hirepro thing or does it happen in other OA's as well, mainly college one's).\nI've only recently started dsa so I don't mind switching if it's for the better.\nI'll be starting my 5th sem next month if it's relevant.",
+  "metadata": {
+    "id": "1lzelo2",
+    "author": "LegitimateFreeze",
+    "url": "https://www.reddit.com/r/PESU/comments/1lzelo2/question_oa_language_restriction/",
+    "permalink": "/r/PESU/comments/1lzelo2/question_oa_language_restriction/",
+    "score": 27,
+    "upvote_ratio": 0.97,
+    "created_utc": 1752472389.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "You should always have a backup language if you are doing dsa in python, like c,c++ or java as few companies don't prefer python; Most companies prefer all languages.\n└── From which year should I doing start dsa ? I am a fresher who is gonna start college next month.\n    └── Enjoy your first year; Try different languages and get comfortable with 1 or 2. After that you can start dsa, so preferably during 2nd sem or 1st year holidays(which will be less as first year starts late).\n        └── So I should start from 2nd Sem or end of 2nd Sem ? Thank you\n            └── You can start at any time, the first year is the only year where you won't have much stress.  So do spend quality time participating in clubs and making friends. In the remaining time spend time exploring what language suits you the most, and as soon as you get it start doing dsa. It can be at any time.",
+    "I'd say go with C++ / C / java along with python, because some times some companies may dont have python, u never know which platform all companies use thats why"
+  ]
+}

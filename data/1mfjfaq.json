@@ -1,0 +1,18 @@
+{
+  "title": "[Placements] How to prepare for Placements and the various job roles offered",
+  "content": "I’m currently in 5th semester and looking to start preparing for placements next year. I went through the placement statistics sheet, and most of the roles listed are titled Software Development Engineer (SDE) or Software Engineer.  \nHowever, it’s not very clear what these roles specifically involve (web dev? ML? app dev?).  \n  \nI’m personally very interested in Machine Learning, AI, and Data Science, and I’m trying to figure out how to balance that with core SDE prep  \n  \nI have a few questions and would really appreciate advice from seniors who’ve been through the process:  \n  \n1. What should I focus on for SDE roles?  \n  \nIs it enough to focus on DSA and problem-solving, or should I also start building strong projects in tech stacks like MERN, Java, Flutter, etc.?  \n  \nDo companies for SDE roles value ML/AI/DS projects, or are those considered separate profiles?  \n  \n2. Best platforms for coding prep?  \n  \nA few companies that came recently for internships conducted tests on HackerRank, but I’ve been solving problems on leetcode for few weeks.  \n  \nWhich one should I stick to? Or should I do both?  \n  \n3. What do SDE/SWE roles actually involve?  \n  \nAre they usually web dev, backend, or do any include AI/ML work?  \nHow to figure out which one is AIML , Web tech etc  \n  \n4. How should I structure my preparation?  \n  \nWhat was your approach during 5th/6th sem?  \n  \nHow early should I apply for internships(after 6th sem) and which companies to apply to?  \n  \nShould I start working on ML/DS projects now or focus first on DSA and leetcode?  \nHow/where to prepare for Core subjects like CN,OS  \n  \nAny advice or roadmap from seniors would mean a lot. Thanks in advance!",
+  "metadata": {
+    "id": "1mfjfaq",
+    "author": "MiHaWK2k5",
+    "url": "https://www.reddit.com/r/PESU/comments/1mfjfaq/placements_how_to_prepare_for_placements_and_the/",
+    "permalink": "/r/PESU/comments/1mfjfaq/placements_how_to_prepare_for_placements_and_the/",
+    "score": 23,
+    "upvote_ratio": 1.0,
+    "created_utc": 1754115502.0,
+    "flair": "Placements 🤑",
+    "nsfw": false
+  },
+  "comments": [
+    "1. Projects also matter during interviews, so you should also build 2-3 good projects.\n\nSome companies value ML/AI/DS, but you should have 1-2 projects involving tech stacks as well.\n\n2. You can continue on leetcode only, but only thing you have to consider is in few technical test (less than 5%), you have to read the input and solve, so for that you should how to read input and all.\n\n3. SDE/SWE roles involve mostly development related things, you can cross check through companies jd. If it has ai/ml mentioned in jd then only that job will involve ai/ml. But generally, you will be hired as a sde and allotted team afterwards.\n\n4. Learn DSA and core subjects like CN,OS,DBMS,OOPS,SE along with that you can build projects if you have time left, or you can enhance your acdemic projects and include it in your resume.\n\nFor OS and DBMS you can follow love babbar's playlist\n\nFor CN kunal kushwaha's video\n└── Can i dm ?\n    └── Yes you can"
+  ]
+}

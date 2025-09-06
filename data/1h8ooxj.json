@@ -1,0 +1,20 @@
+{
+  "title": "6th Sem Electives",
+  "content": "These are some of the subjects offered for Elective 4:\n\n1. Topics in Deep Learning\n\n2. Database Technologies\n\n3. Heterogeneous Parallelism\n\nCan seniors please comment on how the above electives will be in terms of workload and difficulty in scoring? \n\nThanks in advance.",
+  "metadata": {
+    "id": "1h8ooxj",
+    "author": "Easy_Tough7730",
+    "url": "https://www.reddit.com/r/PESU/comments/1h8ooxj/6th_sem_electives/",
+    "permalink": "/r/PESU/comments/1h8ooxj/6th_sem_electives/",
+    "score": 14,
+    "upvote_ratio": 0.9,
+    "created_utc": 1733562492.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "+1 want to know about heterogeneous parallelism\n└── HP syllabus itself is medium difficulty, not too hard or easy. Exams are decent, half the class got A or S last time, A is fairly easy but S is hard. Assignments are hard but you will learn something from doing it and will enjoy them(If you have taken BD, it is similar difficulty to them but it I found HP assignments to be better than BD assignments).",
+    "Database Technologies from what I got to know from seniors is this:  \nUnit-1 : DBMS stuff  \nUnit-2: Toughest in the subject (need to refer tb for this + no resources available on yt for this)  \nUnit-3,4,5: BD related stuff and some new distributed SQL thing is there not too sure about it. Doable cuz the content is less in these units.\n\nbut yeah looks good enough if you see other choices for elective-4..",
+    "TDL is known to be pretty heavy and depending on who takes it, can be a hit or a miss (mostly a miss at PESU). DBT is mostly straightforward but also very industry relevant and in general a great course, similar to BD. Someone already posted about HP.\n├── Is bd a prerequisite for dbt ?\n│   ├── No, from what I’ve heard there’s actually quite a bit of overlap between BD and second half of DBT. So you don’t need to do BD but if you did then it will be repeat of some stuff.\n│   │   └── Which one is more scoring , info sec or dbt ?\n│   └── Nope. No electives at PES have strict prereq requirements.\n├── Thank you so much!\n└── Are the projects/assignments for DBT as hard as they were for BD?"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Digital System Design ece elective doubt",
+  "content": "Hey i was going through DSD slides, they are teaching it using verilog HDL, we used system verilog in sem 3, are these old slides or would they actually teach in verilog HDL only?",
+  "metadata": {
+    "id": "1l27pzo",
+    "author": "Trick_Contest_6348",
+    "url": "https://www.reddit.com/r/PESU/comments/1l27pzo/digital_system_design_ece_elective_doubt/",
+    "permalink": "/r/PESU/comments/1l27pzo/digital_system_design_ece_elective_doubt/",
+    "score": 2,
+    "upvote_ratio": 0.75,
+    "created_utc": 1748943871.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "yes, verilog only.\n└── Why bro, when they have already taught us system verilog, why again go through the pain of learning new syntax\n    ├── this time its for a different purpose, u will understand i think. \n\nI didnt take the elective, so I will leave it here for others to ask\n    └── It’s not the same syllabus as CADD, it’s what’s next in Verilog after cadd. You will be exposed to more aspects in chip manufacturing , design, synthesis"
+  ]
+}

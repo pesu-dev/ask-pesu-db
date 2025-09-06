@@ -1,0 +1,18 @@
+{
+  "title": "[Question] Photonics and Quantum Technology",
+  "content": "How is the Quantum Technology and Photonics lab, is this open for undergraduates in ECE Department?\n\nAlso what other quantum computing opportunites does PES offer (like clubs, workshops etc..)",
+  "metadata": {
+    "id": "1lzgeyd",
+    "author": "chiragbulbule",
+    "url": "https://www.reddit.com/r/PESU/comments/1lzgeyd/question_photonics_and_quantum_technology/",
+    "permalink": "/r/PESU/comments/1lzgeyd/question_photonics_and_quantum_technology/",
+    "score": 9,
+    "upvote_ratio": 1.0,
+    "created_utc": 1752479372.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "I’m an alumnus of the lab (ECE, Class of 2024). I completed my capstone project here and spent a considerable amount of time working in the lab. Yes, it is open to undergraduates PESU is predominantly an undergraduate-focused institution, and you’ll rarely find graduate students involved.\n\nThat said, the lab doesn’t follow a very defined research direction. In my opinion, it’s most apt for simulation-based work in photonics, and possibly quantum photonics. However, neither PESU nor the lab has the infrastructure to support hands-on or experimental work it's mostly simulation-focused.\n\nThe best opportunities for real exposure in this field come from outside the campus. I strongly recommend applying to the IISc Quantum Karyashala workshop, which is conducted annually and offers excellent hands-on learning. Also consider internships at IISc’s Quantum Dasksha program or at CeNSE, both of which provide serious research experience in quantum and photonics.\n\nPESU does offer some useful electives in the 5th and 6th semesters, but keep in mind that quantum technologies are incredibly broad ranging from algorithms and computing to materials and communication. Each of these domains requires deep specialization. At the undergraduate level, you’ll likely only scratch the surface, and most substantial work starts at the Master's or preferably PhD level.\n\nThat said, students from the lab have gone on to strong academic paths-Penn State, University of Bristol, and University of Nottingham, to name a few. I myself joined IISc as a Project Associate in the Photonics Lab at CeNSE and will soon be moving to Ghent University–IMEC for my Master’s.\n\nTo get started, I highly recommend NPTEL courses—they’re well-structured and provide solid foundations. For anything beyond that, feel free to DM me."
+  ]
+}

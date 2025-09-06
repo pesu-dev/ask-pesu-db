@@ -1,0 +1,20 @@
+{
+  "title": "25tards how are the webdev/cybersecurity jobs this year?",
+  "content": "Idk much about the job market for Cybersecurity jobs in India specially for freshers, it would be of a great help if you guys provide the info.\n\n I've been in a dilemma between choosing Webdev and Cybersecurity since a long time now.I'd love to hear any advices from the seniors who are currently doing/have done these.",
+  "metadata": {
+    "id": "1g9jpjl",
+    "author": "PYUchiha7",
+    "url": "https://www.reddit.com/r/PESU/comments/1g9jpjl/25tards_how_are_the_webdevcybersecurity_jobs_this/",
+    "permalink": "/r/PESU/comments/1g9jpjl/25tards_how_are_the_webdevcybersecurity_jobs_this/",
+    "score": 11,
+    "upvote_ratio": 1.0,
+    "created_utc": 1729607898.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "I think it is a good idea to learn cybersecurity well. My electives were all over the place, but many companies require some cybersecurity skills. I think Deloitte(tier 2) hired 10 people for a cybersecurity related role, but cybersecurity-related questions are asked in a lot of places ( Accenture MCQs, Amazon Cloud support associate, etc.)  \nBut it is definitely good to have at least a rudimentary understanding of how to build a full stack web application. ( otherwise, it will be like putting the cart before the horse)  \nRather than these two options, I would recommend learning AIML in depth ( both the math and the implementation ), as almost all companies ( whose interviews I have attended till now ) have asked/ atleast talked about it.  \nBest time to ride the wave.\n└── Ohh thanks for the info\n\nBut I was planning to completely shift to cybersecurity but seeing the placement sheet I'm not really sure,the intake is less, companies are less and even the pay is less",
+    "A couple of companies came for cysec AFAIK, not a lot. A few companies are coming for pure web dev, but from what I see most want good backend devs, they didn't specially mention knowing frontend sometimes but heavily focused on backend stuff\n└── Thanks for the info.\n\nDid u do your expertise in cybersecurity or do uk anyone who has done that with whom I can connect through any social media?\n    └── nope, I'm in aiml. dm if you wanna contact someone in cysec",
+    "One company called Consecure came for placements for our batch, hiring for SDE - Cybersecurity role.   \nTalking about web dev, most of the SDEs in India are web devs, so naturally companies hire for SDEs which are basically web dev jobs\n\nSpecific web dev jobs a few of them have come though, like SDE1 - backend (for Licious company)\n\nWebdev is kinda saturated, I would say try cybersec, AIML or other trending domains\n\nGood luck\n├── &gt;One company called Consecure came for placements for our batch, hiring for SDE - Cybersecurity role.\n\n&gt;Webdev is kinda saturated, I would say try cybersec\n\nSorry but do u mean that I have to try off campus/masters or smtng? Please elaborate\n│   └── By saturated I meant, you cud try web dev, its not *dead*, its just that, companies hiring via placements for this domain specific role are quite less. You can aim for placements safely, not a problem. \n\nSearch on r/developersIndia  you will find numerous posts about this!!  \n\n\nGood luck!!\n│       └── Sorry for the misconception but I was talking about cybersecurity in the previous comment.How are we gonna proceed with it after our bachelor's degree?\n│           └── Um, I am not sure. DM me if you want to talk to someone who is into Cybersecurity. I know only a few people\n└── How would I start off preparing for cybersec?\n    ├── Start CTFs , THM/HTB rooms \nLearn the theory -\nOwasp , mittre framework.\nChoose blue or red team\nAnd grind :)\n    │   └── Thank you so much!\n    └── I am into AIML. I am not sure how to answer that\n        └── Hi can I dm?\n            └── Sure\n                ├── Sure\n                └── Sure"
+  ]
+}

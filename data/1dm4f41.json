@@ -1,0 +1,20 @@
+{
+  "title": "Which language to learn",
+  "content": "I’m about to start my cse course in Pes and some of my seniors advised me to learn a coding language before starting if possible so which language should I learn and if possible please tell where from?",
+  "metadata": {
+    "id": "1dm4f41",
+    "author": "JellyfishLonely9155",
+    "url": "https://www.reddit.com/r/PESU/comments/1dm4f41/which_language_to_learn/",
+    "permalink": "/r/PESU/comments/1dm4f41/which_language_to_learn/",
+    "score": 6,
+    "upvote_ratio": 0.88,
+    "created_utc": 1719087211.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Start with python cus least scary language and that's wt comes in first sem. Prob go through the python syllabus that is prescribed for cbse class 11-12. That should be enough to score well in first sem since it's a similar syllabus. \n\nHowever even if you don't study no issue because  they will be teaching python from the basics so don't worry.\n\nBest thing is to go through the cs50 course. You should be sorted overall.\n└── Adding to this - there's no point learning a bunch of languages because learning multiple languages doesn't really help you. Learn the language needed to solve a particular problem. \n\nAll programming based courses here - Python, C in first year and C++, Java in second year - these are all courses that teach the language right from the basics. So even if you don't come in with a programming background, it's manageable.\n\nThe only course I do recommend taking up is the MIT Missing Semester course, because none of it's topics are covered as part of the CS syllabus but you will be expected to pick up all of the topics by the time you start working.",
+    "The language you choose to start does not really matter, you should focus on learning. Having said that, there is a bunch of stuff you can do with C++. Thus, I recommend you to start with C++/ C Programming in case you are starting out your coding journey .\n\nIt is not bad to start with C++. It looks complicated, you will bash heads with it, but once you grasp its concepts, it's actually a fun language to program with. I recommend learning the newer standards in C++. You'll eventually learn more languages. Since the basic principles are mostly universal amongst them, **C++ is just one of the many options to start with.**\n\nYou may want to do the [CS50 Harvard Course](https://cs50.harvard.edu/x/2024/) to get a clear idea on what programming language you want to start off with.\n\nIf you really want to be proficient with programming your initial goal should not to be to learn a language, but rather ***to learn Computer Science***!!! The goal here is different because you learn concepts not the language per se.   \n  \nNote - If you learn C or C++, you learn how to **really program**. Everything after that is just syntax.\n\nGood luck!\n└── dude, could you also tell like how many units and topics of maths phy chem in 1st sem...?  \nlike is there a recent prf of all topics or units of 1st sem atleast....  \nit wud be really helpful...",
+    "It doesn't matter what language you learn as long as you learn the core programming fundamentals &amp; get comfortable enough with it to solve coding problems. I'd suggest start with codewithharry's new python course and do all the practice sets, the first semester cs course will be cakewalk."
+  ]
+}

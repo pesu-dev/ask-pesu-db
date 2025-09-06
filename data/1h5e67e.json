@@ -1,0 +1,18 @@
+{
+  "title": "Seniors who have taken Database technologies as elective, how was your experience?",
+  "content": "I am deciding on taking DBT as my 6th sem elective specialization. I thought the syllabus looked pretty interesting and I was very tired of doing ML focused courses. \n\n1) Is it easy to learn? Like were you able to understand the course content just by reading slides or did it require external learning like YouTube, etc?\n\n2) Is the course more focused on practicals or is it mostly theory?\n\nOr should I consider another course like HP?",
+  "metadata": {
+    "id": "1h5e67e",
+    "author": "Miserable_Goat_6698",
+    "url": "https://www.reddit.com/r/PESU/comments/1h5e67e/seniors_who_have_taken_database_technologies_as/",
+    "permalink": "/r/PESU/comments/1h5e67e/seniors_who_have_taken_database_technologies_as/",
+    "score": 15,
+    "upvote_ratio": 0.95,
+    "created_utc": 1733196658.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "I don't know if it's DBMS or some more specialized course on it. If it's a specialized database tech course check the syllabus and ask others but if it's the only data base course being offered, 100% yes\n\nIt doesn't matter what profile you'll go for you'll need DBMS courses, nothing happens with data management in comp sci.\n\nI don't know about the college syllabus but I have asked several of my friends (for developing a placement edge course in DS) and people from companies offering 20+ for freshers (SDE-1, Analyst Roles and ML Engg) have all listed this course as a must which even they watch before placement seasons to prepare to take interviews on DB subjects.\n\n[CMU Database](https://youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g&amp;si=jfLM-VVnZ8uKAZF-)\n\nEnjoy the courses 🙌\n└── Pavlo's course is goated. PESU's DBT isn't that great though.\n\nPESU's HP course has a lot cooler/updated syllabus and assignments imo.\n    └── What's HP?\n        └── Heterogeneous parallelism - openmp, cuda, etc"
+  ]
+}

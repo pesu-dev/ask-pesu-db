@@ -1,0 +1,22 @@
+{
+  "title": "HELP",
+  "content": "https://preview.redd.it/w5xfu8ot02hd1.png?width=1127&amp;format=png&amp;auto=webp&amp;s=2fa6aa73f8f8ec3e6969a59df800deb8abe2bc47\n\nwhich one of these is the easiest?",
+  "metadata": {
+    "id": "1eljatm",
+    "author": "Wrong_Arrival_6875",
+    "url": "https://www.reddit.com/r/PESU/comments/1eljatm/help/",
+    "permalink": "/r/PESU/comments/1eljatm/help/",
+    "score": 9,
+    "upvote_ratio": 0.92,
+    "created_utc": 1722954679.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "go with OS if you've no coding experience whatsoever but if you can code a little bit choose DSA it's really important and will haunt you for years if you evade it.",
+    "DSA needs to be covered before DAA since it's a prerequisite. I'd follow that with DBMS and then OS.\n└── we got to pick one\n\nso objectively which ones the easiest\n    └── I already covered it in my answer. DSA is not only the easiest but it is also a prerequisite for DAA, so it must be covered first anyway.\n        └── So the order goes like DSA, DAA, DBMs and then OS\n            └── Yes",
+    "Finding any subject \"easiest\" is very subjective.  \nDSA - Coding (in C) + Algorithms. Engaging and challenging sometimes.  \nDAA - Algorithms and its psuedo codes. Easy mostly except for some concepts at the end of the course.  \nOS - Theoretical subject and the syllabus was huge so not anywhere around the \"easiest\" category.  \nDBMS - I am in 5th sem but I think the subject is very engaging and practical. Idk about the difficulty.",
+    "DSA can help you to crack your interviews",
+    "DAA is the easiest but 1st u hv to study DSA so choose  DSA..DSA clg syllabus will be easy not so complex.."
+  ]
+}

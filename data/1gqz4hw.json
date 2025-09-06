@@ -1,0 +1,21 @@
+{
+  "title": "ML jobs",
+  "content": "Are there any companies that offer ML jobs during placement ? If not can we apply for it off campus after btech.",
+  "metadata": {
+    "id": "1gqz4hw",
+    "author": "Savings_Paramedic_49",
+    "url": "https://www.reddit.com/r/PESU/comments/1gqz4hw/ml_jobs/",
+    "permalink": "/r/PESU/comments/1gqz4hw/ml_jobs/",
+    "score": 14,
+    "upvote_ratio": 1.0,
+    "created_utc": 1731567404.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "Couchbase and IBM from the top of my head hired for ML",
+    "There are few but it’s rare, more over it’ll be more towards MLOps. Generally proper ML roles need masters/PhD.",
+    "No there won't be any companies recruiting for ML role as a fresher",
+    "Just sharing a snippet from one of my old comments (\n\n&gt;The roles you see which brand themselves as \"ML Engineers\" - they aren't ML roles. You will not be doing any ML work. These are glorified Cloud Engineers or DevOps (nowadays called MLOps) roles. And what work do they do? They simply work with existing models and ship them to customers for their use. And what skills do they need? They need to know topics like OS, cloud, networking and so on which (again wait for it) are core CS fundamentals. You will be using zero knowledge of ML for these roles, that's why you will be seeing CSE grads and SWEs primarily working in these positions. I've spoken to engineers at multiple companies - most, if not all, engineers in these roles don't really know what ML topics they are working with and neither is it required.\n\n&gt;So now your question might be, \"wait, whats a proper ML job?\" - these are researcher/scientist roles (often called Applied Scientist) which are reserved for applicants with *at least* a Masters degree AND years of research experience. Just make a quick google search and you will find that even the most entry level role in this field requires at least a couple of years of experience which means that these aren't roles for undergrads. There are about a handful of roles at most which do recruit undergrads, but getting into them is close to impossible. These are pure research driven roles in which you pursue research like an academic setting."
+  ]
+}

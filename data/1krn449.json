@@ -1,0 +1,22 @@
+{
+  "title": "OS ESA",
+  "content": "What can we expect for os esa ??? will they be asking a lot of numericals (for our isa it was all numericals only)\nPlease help 🙏",
+  "metadata": {
+    "id": "1krn449",
+    "author": "FoundationNo9938",
+    "url": "https://www.reddit.com/r/PESU/comments/1krn449/os_esa/",
+    "permalink": "/r/PESU/comments/1krn449/os_esa/",
+    "score": 26,
+    "upvote_ratio": 1.0,
+    "created_utc": 1747794840.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Nope, no respite for u this time with numericals, only 3-4 max\n└── 😭",
+    "50% - Important theory topics  \n20% - Numericals from important topics like scheduling  \n30% - Miscellaneous and not so intuitive to answer type questions\n└── are the misc ques hard??\n    └── By miscellaneous, I mean the random topics that are there which you won't really expect to come in ESA as a 6-7M. Like I remember a question on UFS/NFS (idr exactly) came to draw the diagram of it and explain. In the slides there was only a diagram at 240p for it and no explanation for it given anywhere lmao. But they did ask that.\n\nOn top of it, we had only 1 day gap to prepare for OS ESA💀 Everybody got cooked badly\n        ├── did they ask any coding, like for message sharing and file system system calls?\n        │   └── Yeah there were 2-3 questions coding related. Those are part of the 30% miscellaneous questions.\n        └── Are the slides enough or would we need to read the tb as well\n            └── I mean you can't read the tb at this point of time💀. Just do the slides properly.",
+    "Glance through Aronya(🙏🏼) notes\n\nNumericals will be asked for sure, LRU Paging/ another paging. Scheduling based questions for sure\n\nCoding is kinda unpredictable, make sure to cover up buffers code and semaphores and deadlock handling",
+    "I am telling you guys just go through everything and they could ask anything from any corner no important questions bullshit and also be thorough with your numericals they will be there , and it is going to be tough get through it 5 and 6 sem chill life\n└── &gt;5 and 6 sem chill life\n\nUmm i actually heard that it's the other way?\n    └── Yeah I assumed the opposite since we'd have capstone and internship tests...\n        └── Subjects are more manageable if u take electives wisely nothing  else chill Abt it though\n            └── Is it overall worse than 2nd year?\n                ├── Nope the subject complexity is lower than 2nd year apart from cd in 6th sem but workload is higher due to capstone , dsa etc\n                └── Workload is definitely higher (capstone + placement prep + internship). Toughness depends on what kind of electives you take up. Only 1-3 of the core courses in 3rd year are challenging, they're more straightforward (but still vast)",
+    "Wouldn’t be surprised if they ask numericals on topics we couldn’t have even imagined had numericals\n└── My biggest fear is that they’ll not ask numericals and suddenly start asking theory for 8 marks 😭"
+  ]
+}

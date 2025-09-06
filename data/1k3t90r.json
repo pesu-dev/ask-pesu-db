@@ -1,0 +1,23 @@
+{
+  "title": "AI tools that may help you through college",
+  "content": "AI tools are very useful for increasing productivity , You can get done stuff fast.  \n  \nThere are some lame assignments(not all) which you would need to do only for that semester and not care anymore(Like ddco's iverilog) and (lex and yacc for compiler design) , unless you actually want to learn these languages for your interests they dont have any real purpose.  \n  \nThat being said i wouldnt recommend anyone learning to code use Ai tools because productivity is not Learning. Your just completing your Stuff fast And most importantly You will hit a roadblock because there are no AI tools that is designed for your entire use-case.  \n  \nWhen you hit roadblocks you tend to fully rely on the LLM to guide you to finish your requirements.Which is not a good sign and you will learn little to very less.\n\nSo that being said here are my best picks :\n\n1)  IF you dont have **money** and if you are a **student** :  \nSign up for github copilot using your college email and get it verified (takes about a week to verify).  \nYou will get a $15 dollar monthly plan for free throughout your college , untill your email expires.\n\n[Github-copilot-student-offer](https://github.com/education) , use this to signup and watch a video for your usecase.\n\n  \n2) If you can **spend money**($20 dollars per month) :\n\nSign up for Cursor pro. This is a very powerful tool. It significantly increases your productivity if used rightly and watch some video on how to setup things.\n\n[cursor-plan](https://www.cursor.com/pricing) , here is the link for the same.  \n\n\n  \n3) If you have **A lot of money** :\n\nThis will be useful when you have to build a product quickly especially if you have a startup and have to show some demo for your clients quickly etc. USE claude code or (cline/roo-code + some api key).\n\nhave an api key and keep recharging it. its like having internet data pack, you have to top up everytime your data gets over.\n\n  \n[claude-code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)\n\n[Roo-code](https://github.com/RooVetGit/Roo-Code)\n\nhere are the links for these tools.  \n\n\nspecial offers running this month for **STUDENTS** exclusively :  \n  \n[claude student builder](https://www.anthropic.com/contact-sales/for-student-builders)\n\n[perplexity student offer](https://www.perplexity.ai/referrals/join)\n\n\n\nExtra tip : use git and github to manage your code , so even if ai takes over and screws your code you can go back to previous version of code.\n\nThe best usecase i found in pes to use AI was for capstone , i speed ran the whole project and the teachers dont bother to ai plag check the source code.\n\n",
+  "metadata": {
+    "id": "1k3t90r",
+    "author": "Fun-Understanding862",
+    "url": "https://www.reddit.com/r/PESU/comments/1k3t90r/ai_tools_that_may_help_you_through_college/",
+    "permalink": "/r/PESU/comments/1k3t90r/ai_tools_that_may_help_you_through_college/",
+    "score": 41,
+    "upvote_ratio": 0.93,
+    "created_utc": 1745174019.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "I recently heard about this site called [replit](https://replit.com/). It is an AI for app development and it has been banned in a few countries because of how good it is.\n└── oh damn i remember using this as a code runner , during labs some of our computers did not have gcc installed , so i just opened replit and coded c. did not know it has ai tools.",
+    "Seniors goated fr🙏🙏🙏",
+    "What is this student mail everyboyd talks about, I'm a first year and I never received such an email from the college\n├── See in pesu portal\n│   └── The Microsoft account? Cuz I see only that\n│       └── Maybe u will get it in ur 1 credit subject for Microsoft teams\n└── you will get a .edu mail with your srn in it .\n    └── They stopped giving it this year onwards\n        └── what? really? dayum pesu taking more L's",
+    "U forgot cline\n└── roo-code is a fork of cline. so not much to worry lol\n    └── Oh also bolt and lovable are good and the new same.ui for copying the ui of diff websites\n        └── yep they are good for web dev , u can add v0 to that list as well\n            └── Yeahh",
+    "my stack: qolaba.ai, canva.com, adobe.com, lovable.dev, bolt.new, github, cursor (yes, im a design student)",
+    "my stack: [qolaba.ai](http://qolaba.ai/), [canva.com](http://canva.com/), [adobe.com](http://adobe.com/), lovable.dev, bolt.new, github, cursor (yes, im a design student)"
+  ]
+}

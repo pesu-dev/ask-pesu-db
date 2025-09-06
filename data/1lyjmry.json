@@ -1,0 +1,20 @@
+{
+  "title": "[Discussion] Full Stack dev or Frontend dev??",
+  "content": "Hey seniors..!\nI have completed my 1st yr (CSE) and had enough break also now i wanted to put my hands on web dev bt i am confused if i shld choose my path as full stack or just frontend?? Which would be better considering placements,academics,time management...\nIf any seniors who got placed just by frontend? If yes then did u even deployed it..\nAlso how complex enough my project shld be to get resume shortlisted?",
+  "metadata": {
+    "id": "1lyjmry",
+    "author": "Potential-Cod1070",
+    "url": "https://www.reddit.com/r/PESU/comments/1lyjmry/discussion_full_stack_dev_or_frontend_dev/",
+    "permalink": "/r/PESU/comments/1lyjmry/discussion_full_stack_dev_or_frontend_dev/",
+    "score": 8,
+    "upvote_ratio": 0.9,
+    "created_utc": 1752379785.0,
+    "flair": "Placements 🤑",
+    "nsfw": false
+  },
+  "comments": [
+    "If u want to be a frontend dev , you should know how the backend also works.  \nSo i suggest you try full stack, Build a small Rest API , connect it with a simple frontend(html,css) also works.  \nDont just do till css and leave , learn JS , learn how frontend retrives data and populates it Dynamically.  \nThen choose if you want to be frontend or full stack.\n\nif you want a good project which will keep u occupied for sometime , add in an ai-service(preferrable in flask or FAST API)  to the project as well. build a ML model and keep it in a pickle or any other format and use the ML model in your REST API.\n└── Thanks for the advice!!👍",
+    "Full Stack is always better in my opinion. I mean, even companies who come for placements often just call the role as SWE and only sometimes i have seen only frontend or only backend being mentioned in the JD. So u might be better learning full stack, but since u just finished 1st year, I would suggest follow a proper roadmap. \n\n[roadmap.sh](http://roadmap.sh) is a nice place to start off. \n\nThis [one](https://hackernoon.com/the-2019-web-developer-roadmap-ab89ac3c380e) is a little old, but see if you can find a more modern one.   \n  \nEssentially, first learn HTML, CSS and JS as those are the fundamental, then u can jump into any frameworks / stack (MERN, PERN etc) of ur choice. \n\nGood luck !",
+    "DSA"
+  ]
+}

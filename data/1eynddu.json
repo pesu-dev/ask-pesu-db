@@ -1,0 +1,19 @@
+{
+  "title": "Placement prep",
+  "content": "As a 5th-semester student who learned DSA  in C during the 3rd semester, which programming language is most commonly asked during coding rounds in placement exams? Need your suggestions for placement prep\n\nThanks",
+  "metadata": {
+    "id": "1eynddu",
+    "author": "DaikonEmbarrassed147",
+    "url": "https://www.reddit.com/r/PESU/comments/1eynddu/placement_prep/",
+    "permalink": "/r/PESU/comments/1eynddu/placement_prep/",
+    "score": 8,
+    "upvote_ratio": 1.0,
+    "created_utc": 1724343207.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "Pesu senior here. Use cpp. Learn STLs. Don't use C.\n└── why not C?\n    └── C is naive for DSA. C++ STLs come very handy, you will know it yourself when you start solving real questions 😉\n        └── Ah, that's true",
+    "Python"
+  ]
+}

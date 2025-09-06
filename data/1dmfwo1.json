@@ -1,0 +1,20 @@
+{
+  "title": "CS50",
+  "content": "I’m going to start my cse course next month but beforehand should I do the Harvard CS50 course and would it help overall in college?",
+  "metadata": {
+    "id": "1dmfwo1",
+    "author": "JellyfishLonely9155",
+    "url": "https://www.reddit.com/r/PESU/comments/1dmfwo1/cs50/",
+    "permalink": "/r/PESU/comments/1dmfwo1/cs50/",
+    "score": 9,
+    "upvote_ratio": 0.86,
+    "created_utc": 1719124257.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "If you don't have any programming background, the CS50 is a great course to introduce you to the basics. However, IMO you don't actually need such an intro because all CS courses in first year start from absolute basics, assuming you have 0 background in CS. So unless you're a fan of learning different languages (which isn't helpful if you don't know what a language is for), it won't help you too much. Most people I know recommend it only to pick up basic Python/C skills. So the course in itself will be useful for at most first year. Beyond that it kind of loses its purpose. \n\nOn the other hand if you want a course whose topics you'll end up using not only during your 4 years but also mandatorily in the industry, you should pick up the MIT Missing Semester. From its name, it's meant to cover tools and technologies that aren't part of a standard CS curriculum but rather are meant to be used alongside it - shell scripting, using the terminal, version control, etc. These are tools you'll have to pick up yourself as you navigate college but you will end up using every single day at work in the industry, hence the earlier you get proficient with them, the better. It's a fantastic and also pretty small course. A lot of people in the industry also recommend it to freshers who join because of how useful it is.\n└── Can I join the MIT missing semester course without knowing anything about cse at first or should I join after a while in college?\n    ├── You can watch the MIT Missing Semester video playlist on youtube. There are no prerequisites and the course focuses on Shell and Scripting commands and tools which are very helpful\n    └── As someone else has already commented - yes you can pick it up. I would also suggest installing Linux on your system, if you are on Windows either through WSL2 (easy) or dual booting (difficult). If you are on a MacBook, there is no need to do this. You can then practice the course on the installed Linux environment.",
+    "yes, definitely",
+    "I react it as csgo xd"
+  ]
+}

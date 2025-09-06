@@ -1,0 +1,18 @@
+{
+  "title": "[Question] How should Sem 3 students approach preparing for summer internships after 4th sem?",
+  "content": "Title.  \nA lot of us are a little lost on where to actually put our focus on right now. What do they ask in the interviews? Is it related to our 2nd year coursework?",
+  "metadata": {
+    "id": "1n44nex",
+    "author": "leoxplr",
+    "url": "https://www.reddit.com/r/PESU/comments/1n44nex/question_how_should_sem_3_students_approach/",
+    "permalink": "/r/PESU/comments/1n44nex/question_how_should_sem_3_students_approach/",
+    "score": 15,
+    "upvote_ratio": 0.95,
+    "created_utc": 1756568139.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "Dsa + projects, grind dsa in summer after 4th sem snd build some projects which are impressive and can talk about for 10-15 mins\n├── How to study dsa ?\n│   ├── Complete a yt playlist or any online course that teaches u dsa theory (i recommend abdul bari's on udemy) so that u atleast have an idea abt all the algorithms and their time complexities and then u can start solving problems on leetcode/neetcode etc by following any of the roadmaps (strivers a2z is a good choice since ull have time if ur starting in 2nd year). Or you can just wait till u finish ur dsa in curriculum and start solving problems on leetcode after 3rd sem\n│   │   └── What if you are a little weak in c\n│   │       ├── There is no restriction on the language you need to use for dsa. The concepts and algorithms are the same regardless of the language. Use c++/java/python whichever ur comfortable for dsa\n│   │       │   └── For third sem you need c tho\n│   │       │       └── Yea, but u can't use C for company OAs, so u have to learn to do dsa in a different language\n│   │       │           ├── U have to do in c++, its almost same as c just a little extra stuff\n│   │       │           └──  asking how does one prepare for the coursework\n│   │       └── You can do python/java since you can get better in c when ur doing clg course anyway its better to know 2 languages cuz flipkart didnt have python for their test\n│   └── Striver a2z sheet\n└── Thank you. Projects related to what, exactly? And what tools do we use for those projects? Shouldn't the projects we make be somewhat related to what the company wants? How would we know that? Or is it okay as long as our project solves a real world problem\n    └── I mean if the your projects also resonate with what a company does, that's a plus point. But there's no way we can make a dedicated project just for a company. Though most of the companies want novelty to your project, like what are you doing different than other candidates who have similar projects. Don't just put copy paste generic projects from github, try to add novelty to your projects and which solves a real issue. According to what I have experienced, you should have at least one ML project, 1 dev/ data ingestion pipeline, one low level networking sort of project, 1 big data project, etc which you can sort of rotate in cv according to which company comes, so that your cv can be versatile for most types of companies. But again, projects are subjective and you can make whatever you want, just don't let them being generic which most of the candidates put in their cv."
+  ]
+}

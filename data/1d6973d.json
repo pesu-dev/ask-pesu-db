@@ -1,0 +1,22 @@
+{
+  "title": "Should i learn DSA in java or c++?",
+  "content": "i  know java basics but i'm confused because some people say c++ is better for doing dsa. I don't know c++ at all",
+  "metadata": {
+    "id": "1d6973d",
+    "author": "OkAdministration8068",
+    "url": "https://www.reddit.com/r/PESU/comments/1d6973d/should_i_learn_dsa_in_java_or_c/",
+    "permalink": "/r/PESU/comments/1d6973d/should_i_learn_dsa_in_java_or_c/",
+    "score": 8,
+    "upvote_ratio": 0.83,
+    "created_utc": 1717319172.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Any language is fine. Java/Python are a bit easier as languages because you dont have to deal with memory allocation/deallocation. There very few companies which actually code in C/C++, so java/python gets you industry ready\n└── Minor correction: the language you use depends on the *role* not the company itself. You will find engineers who work with Python, Java, Scala, Go, C/C++, all in the same company, working in different roles.",
+    "C++ to really learn how everything works, fiddle around a bit with it until you're comfortable with your concepts. Move to python later cuz that's what most tech companies use. As far as learning C++ goes, take baby steps, one concept at a time, start with the basics (the obligatory \"Hello world\" first program), move to some problem solving questions to familiarize yourself with the syntaxes, how the loops, operators, functions work (the GCC compiler can behave a little funny sometimes when you have no idea what you're doing) and then you can really start fiddling around lists, queues later. Also, learn to read and decipher the error messages. They help big time in really narrowing down the problem once your code starts getting bigger and more complex.",
+    "I started in java, I don't regret it but I don't know how memory management works cause I never faced issues with that. So, that's a disadvantage, abstraction: a lot of stuff works under the hood and u wouldn't even know how\n└── So go with c, c++, Go, etc",
+    "Here is an old comment by me on which language to choose for DSA: [https://www.reddit.com/r/PESU/comments/13px5h9/comment/jlbvnsy/](https://www.reddit.com/r/PESU/comments/13px5h9/comment/jlbvnsy/)\n\nTLDR; use the language best suited for the problem. A one language approach does not work the best.",
+    "c++"
+  ]
+}

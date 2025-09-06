@@ -1,0 +1,19 @@
+{
+  "title": "Could someone share the syllabus and course structure for 2nd and 3rd year CSE (AI &amp; ML)? ",
+  "content": "Could any of you provide the detailed course structure and syllabus (sem wise) for CSE (AI &amp; ML)?",
+  "metadata": {
+    "id": "1d8kdqz",
+    "author": "Head_Fish794",
+    "url": "https://www.reddit.com/r/PESU/comments/1d8kdqz/could_someone_share_the_syllabus_and_course/",
+    "permalink": "/r/PESU/comments/1d8kdqz/could_someone_share_the_syllabus_and_course/",
+    "score": 8,
+    "upvote_ratio": 1.0,
+    "created_utc": 1717573895.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "[https://drive.google.com/file/d/1ZQ8dkt5KfWoNX5\\_y9rWW0hE0s2pAnADE/view?usp=sharing](https://drive.google.com/file/d/1ZQ8dkt5KfWoNX5_y9rWW0hE0s2pAnADE/view?usp=sharing)\n\nit has everything till second year. there is no third year aiml yet\n├── Thanks a ton bro!\n└── Btw there are 6 courses (Big Data, CN, OS, MML, DAA, GoLang) we have to take in 4th sem of AI-ML? Also, is the Linear Algebra course CSE guys take the same as the Mathematics for Machine Learning here? And there is no Microprocessor &amp; Computer Architecture course also which the CSE guys take up in 4th sem?\n    └── these are the cs subjects, DDCO 3rd sem, MPCA 4th sem , LAA 4th sem\n\nfor aiml\n\nSDCA(replaces DDCO)  is a third sem subjcet in which unit 1,2 is DDCO and unit 3,4 is MPCA\n\nMML(replaces LAA)  is a 4th sem subject in which unit 1,2 is LAA and unit 3,4 is a part of a 5th sem subject called machine intelligence\n\nBD(replaces MPCA) is basically the exact same as the 5th sem elective for cs guys. the only difference is that our particular professor decided to focus highly on the programming part where cs people just usually study theory\n\nso basically we are learning the same as CS people and a little bit more. but the subjects mentioned above are a little easier for us. as in they remove little details here and there to fit the entire course into 2 units.\n\nit is quite hectic but very managable\n\nall other courses are the same\n\nGOLANG is a special topic that i took. i did not take one in third sem. you will usually be given a choice between like 5-6 subjects in each sem to pick from, each are 2 credits. AIML department has their own special topics as well, you can choose special topics of either CS department or AIML. golang was a cs department subject\n        └── Bro could you kindly list out the special topics that were available to you guys in 3rd and 4th sem? Which special topics would you advise to take up? Also, would it be better to take up the special topics during the sem or in the summer break? Lastly, can we take up 2 special topics during the summer or is it capped at one?",
+    "Check the PESU Media server. The link is on the FAQs: https://bit.ly/pesu-faq"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "[Question]how to master DSA , going to start my 3rd sem",
+  "content": "suggestion on best youtube channel for DSA from scratch \\[which help in cgpa and placements\\]",
+  "metadata": {
+    "id": "1mfp2k6",
+    "author": "Particular-Curve-445",
+    "url": "https://www.reddit.com/r/PESU/comments/1mfp2k6/questionhow_to_master_dsa_going_to_start_my_3rd/",
+    "permalink": "/r/PESU/comments/1mfp2k6/questionhow_to_master_dsa_going_to_start_my_3rd/",
+    "score": 28,
+    "upvote_ratio": 0.98,
+    "created_utc": 1754136849.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Techdose is nice, he does like leetcode problem run thrus\n\nalthough do try to solve leetcode problems without help, \n\ntry to spend like 15 min. per question, and only if u really arent able to solve it within the first half hour or so, consider referring to yt to forums for help; dont immediately give up",
+    "I heard the striver's DSA from multiple people.",
+    "Stick to a roadmap like Neetcode 150 or Striver's A2Z. You won't get anywhere with solving problems randomly. Try to grasp the intuition behind an answer, even if you have to actually look at the solution. Nothing wrong with that. There's multiple ways of solving a problem, but try to get good to the point where you can clearly tell the difference between a brute force solution and an optimal solution (time and space complexities).\n\n1-2 problems a day is enough if you're just consistent with it. You could also just spam a bunch of easy questions under some topic (graphs, dp, etc.) if you've got nothing better to do during class hours. The goal here is to instinctively know what you're supposed to do (quality), instead of having a ton of questions solved without knowing exactly what's happening and why (quantity)."
+  ]
+}

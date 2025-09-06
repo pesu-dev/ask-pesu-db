@@ -1,0 +1,21 @@
+{
+  "title": "Need guidance: How to build practical skills for good placement by 3rd/4th year (CSE, Sem 4, GPA 8.28)",
+  "content": "Hey everyone,  \nI’m currently in 2nd year, 4th sem (CSE) with a GPA around 8.28. I’ve realized that just going by the book might not be enough if I want to land a good placement, and not just settle for some average or below-average package.\n\nSo I wanted to ask—**practically**, what all should I learn and do over the next one year to build solid practical skills and projects? What helped you personally in getting placed well, or what would you recommend to someone in my position?\n\nI really want to make the most of this time before placements start in 3rd/4th year. Any advice, roadmaps, resources, or personal experiences would be appreciated!\n\n",
+  "metadata": {
+    "id": "1k460if",
+    "author": "Pretend-City-59",
+    "url": "https://www.reddit.com/r/PESU/comments/1k460if/need_guidance_how_to_build_practical_skills_for/",
+    "permalink": "/r/PESU/comments/1k460if/need_guidance_how_to_build_practical_skills_for/",
+    "score": 17,
+    "upvote_ratio": 0.91,
+    "created_utc": 1745213320.0,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    "Study DSA probably the only thing needed for decent placement on campus\n├── When do people usually start leetcode?\n│   └── The earlier the better, 4th or 5th sem seems about right\n├── what about for high paying tier 1 and dream tier? is dsa and projects the most important part there as well,is starting from 2nd sem a good idea,or would it lead to a burnout?\n│   └── Almost all companies paying 20+LPA has the first round of screening as DSA. The only exception that comes to mind is couchbase which shortlisted based on resume/ projects/ GitHub\n└── Do I have to follow the college course content for that or can I learn it from any external source as well?\n    └── For theory clg stuff works but for practice do leetcode, gfg or hackerrank. Neetcode is a good resource for knowing which problems to start solving",
+    "Let me know once you learn how 🥺 👍",
+    "There's a detailed FAQ on how to prepare for placements and build your profile. Go through it. You'll find even more comments made by me if you search this sub with relevant keywords.\n└── Hi sorry I am new to reddit can you please guide me on where to find that FAQ and what do you mean by “search the sub”\n    └── Visit the home page of the subreddit, you will find a pinned post for the FAQs.\n\nAnd if you want to search the sub, use this:\n\nhttps://preview.redd.it/h7kwkf90o7we1.png?width=639&amp;format=png&amp;auto=webp&amp;s=63432f5e9afe5b8128f219e12b11e89d1b70f52e",
+    "DSA as someone already told in comments , i would add to that to complete your coursework projects and put it on github , projects like dbms , cloud computing , OOAD helps you build resume as you go."
+  ]
+}

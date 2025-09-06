@@ -1,0 +1,22 @@
+{
+  "title": "[Question]Need help with VPN alternatives for bypassing Wifi restrictions",
+  "content": "It looks like Cloudflare Warp has been blocked, which was a really useful tool for bypassing network restrictions. Are there any good alternatives that work similarly? Or any methods to use the campus WiFi without running into these annoying blockages?\n\nAlso, if anyone here plays Valorant – is there a way to avoid those high ping warnings while playing on this restricted network? Any help or suggestions would be greatly appreciated! 😭",
+  "metadata": {
+    "id": "1mgokmq",
+    "author": "oogway_47",
+    "url": "https://www.reddit.com/r/PESU/comments/1mgokmq/questionneed_help_with_vpn_alternatives_for/",
+    "permalink": "/r/PESU/comments/1mgokmq/questionneed_help_with_vpn_alternatives_for/",
+    "score": 10,
+    "upvote_ratio": 0.92,
+    "created_utc": 1754240962.0,
+    "flair": "Discussion :snoo_shrug:",
+    "nsfw": false
+  },
+  "comments": [
+    "Idk if still works, what worked for me was I used to use the login ids given during hackathons, they generally were unrestricted, but they expire after one week\n└── Actually sometimes IT team forgot lol, so I used them for over 2 months, and for hackathon that I organized, I used 3 months XD, before it all expired",
+    "You need to use mobile data...they just don't' want people to slack off in collage\n└── If you get 200 ping there's no point playing\n    └── It's a security feature...sadly",
+    "what happened to cloudflare, it was fine before the sem break",
+    "Windows - https://github.com/ValdikSS/GoodbyeDPI\n\n\nMac &amp; Linux - https://github.com/xvzc/SpoofDPI",
+    "poton vpn is the way to go\n└── Ik it's good ,but not for gaming atleast,I got some 300 ping ffs 🙏"
+  ]
+}

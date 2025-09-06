@@ -1,0 +1,20 @@
+{
+  "title": "2nd Sem ECE student seeking help",
+  "content": "I am a 2nd sem ece student and had some doubts\n1)before joining clg i was too much interested in ece and wanted to get into robotics, but after reading reddit posts i got to know that ece scene here is too bad and plus i heard that ece at ec campus is better(i would have got that thru cet itself but didnt knew at that time and no pt of regretting now), can seniors tell me whats the scene of robotics at rr campus??\n\n\n2)Should i take up cse minors next sem?? But i know it will be very hectic and i really wanna build projects in robotics from next sem….\nThe thing is i didnt wanted to go for it jobs, but after seeing placements in ece, i feel like its better to pivot to it jobs, ik doing masters in ece is imp but idk what position i will be after 4yrs so i wanna keep it job also as an option.\n\n\n3)Any seniors who have or working in the field of robotics, can u guide me on hows the scene \nhere(rr campus)and how to start??\n",
+  "metadata": {
+    "id": "1kzv93n",
+    "author": "Distinct-Succotash83",
+    "url": "https://www.reddit.com/r/PESU/comments/1kzv93n/2nd_sem_ece_student_seeking_help/",
+    "permalink": "/r/PESU/comments/1kzv93n/2nd_sem_ece_student_seeking_help/",
+    "score": 12,
+    "upvote_ratio": 0.94,
+    "created_utc": 1748692308.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "So start learning ROS if u are sure abt robotics, also u can follow mit and princetons robotics lectures frm youtube. Any help u need is available on youtube and the internet fr free , also dont worry abt not selecting ec campus, rr campus has c-iot, mars , crais labs which are super into robotics !\n└── Oh thanks a lot i will start ROS in these holidays and thanks for the hopium though:)",
+    "If you are so interested in robotics, maybe you could try joining IEEE RAS. And there's a JOEL lab in 3rd floor. You could try applying there too\n└── I am already in IEEE RAS(will try to get more active) and will also try for joel, thanks!!!",
+    "Since you mentioned your in IEEE RAS, get active. Anyone in any domain can join a project. Thats the scene. CIOT lab does drone stuff. IEEE RAS is peace enough.\n\nCSE minors won't really help you.\n\nAs someone else said, learn ROS. You can learn to use Gazebo as well. Dual-boot or have VirtualBox with Linux. Plenty of guides on all types of robots online - drones (fixed wing or otherwise), line followers, arms, gantry etc. You can learn about the varuous types of motors used and why, the various microcontrollers &amp; microprocessors, basic hardware and stuff. There is a nice book by NASA for some robotics competition that helps with some mechanical hardware stuff (google NASA robotics pdf and it should come, if not DM me). \n\nIEEE RAS is also doing its summer major projects, go ask club heads if you can join one of em and be active. Being inactive won't help you at all.\n└── Thankyou i will try getting more active from next sem!!! And could u please elaborate on why cse minors wont be helpful?\n    └── its a lot of money and you'll be assinged to not so good teachers to teach. and you wont get the minor certificate unless you do all 4 courses (20 credits at 2.5k per credit). You could learn most of it on your own if you want to apply it to robotics, and it'd be better cuz its an actual project. Thats pretty much it. Lil' scamy,and unless you really want an extra certicate wortg 50k, better to do on your own.\n        └── Thanks!!!"
+  ]
+}

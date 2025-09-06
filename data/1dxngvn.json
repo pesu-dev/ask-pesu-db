@@ -1,0 +1,18 @@
+{
+  "title": "4th year placement prep ",
+  "content": "Seniors peeps on this subreddit how did y’all prepare for placements. What are the most important topics asked in interview from dsa. Can you give tips on what is needed in job market right now and is the job market still as bad as last year?\n",
+  "metadata": {
+    "id": "1dxngvn",
+    "author": "Imsmortboi",
+    "url": "https://www.reddit.com/r/PESU/comments/1dxngvn/4th_year_placement_prep/",
+    "permalink": "/r/PESU/comments/1dxngvn/4th_year_placement_prep/",
+    "score": 29,
+    "upvote_ratio": 1.0,
+    "created_utc": 1720377441.0,
+    "flair": "Ask a Senior :redditgold:",
+    "nsfw": false
+  },
+  "comments": [
+    "DSA is not only important for your interviews, its also crucial for passing the OA of mot companies. Along with DSA, Aptitude is super important. \n\n[https://www.techinterviewhandbook.org/software-engineering-interview-guide/](https://www.techinterviewhandbook.org/software-engineering-interview-guide/) - Refer this guide, super useful   \n  \n[https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - refer this Strivers DSA Sheet, which is more than enough. Along with this do LeetCode (3 problems per day, consistently). \n\nOther resources - \n\nDesign and Analysis of Algorithms, Data Structures: Striver videos &amp; Abdul Bari for learning,   \nLeetcode for practice,  \n  \n**Coding ninjas and LeetCode contests for testing yourself. Participate in Contests every weekend.**   \n  \nDBMS, Web Technologies, Cloud Computing: Projects (numerous sources available on the internet)\n\nOS, CN : Thorough study of PES recommended textbooks for learning, GeeksForGeeks and other internet sources for practice quizzes.\n\nAlong with this System Design is also very crucial for which you can refer - \n\n[https://www.youtube.com/@hnasr/playlists](https://www.youtube.com/@hnasr/playlists) - This guy teaches very nicely. It is also in English. \n\n*I've found some videos by ByteByteGo and IGotAnOffer to be helpful. And Gaurav Sen's channel.* \n\n***P.S - NEVER BECOME A LEETCODE MONKEY. Do DSA and Development both. Both are important !!***\n\nHope this helps !\n└── Requesting mods to please pin this or add to FAQs\n    └── Was planning to pin this whole post itself but expected more comments on it tbh. I'll wait for a bit and then add either your comment or the post. Remind me in a few days.\n        ├── Thanks !\n        └── reminding you"
+  ]
+}

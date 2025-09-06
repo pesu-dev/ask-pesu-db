@@ -1,0 +1,22 @@
+{
+  "title": "Need help on electrical engineering",
+  "content": "",
+  "metadata": {
+    "id": "1fuad6a",
+    "author": "AdFirst3371",
+    "url": "https://i.redd.it/dfytrwpfmasd1.jpeg",
+    "permalink": "/r/PESU/comments/1fuad6a/need_help_on_electrical_engineering/",
+    "score": 12,
+    "upvote_ratio": 0.88,
+    "created_utc": 1727853152.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "Studied this last year , already forgot everything 😅",
+    "i3 = i1 + i2 = 5mA + 3mA = 8mA (flowing through 4k resistor)\n\nV1 is the voltage across 2k resistor. Using Ohm's Law: V = i \\* R\n\nV1 = i1 \\* 2k ohm = 5mA \\* 2k ohm = 10V\n\nV2 = i3 \\* 4k ohm = 8mA \\* 4k ohm = 12V\n\nusing power formula = (i\\^2)\\*R\n\nyou'll get power for three resistors as :\n\n2k ohms = 0.05 W\n\n4k ohms = 0.036 W\n\n8k ohms = 0.512 W\n\nhope it helps\n└── Thank you",
+    "post it in esa/isa grpof your batch",
+    "Brother giving me PTSD",
+    "Use kvl/kcl"
+  ]
+}

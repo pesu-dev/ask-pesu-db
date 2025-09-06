@@ -1,0 +1,19 @@
+{
+  "title": "Ddco isa 2",
+  "content": "Do we have to know how to write codes in assembly language? Do they ask this in isa/esa? ",
+  "metadata": {
+    "id": "1gvou6f",
+    "author": "qyuwueiwl",
+    "url": "https://www.reddit.com/r/PESU/comments/1gvou6f/ddco_isa_2/",
+    "permalink": "/r/PESU/comments/1gvou6f/ddco_isa_2/",
+    "score": 8,
+    "upvote_ratio": 0.84,
+    "created_utc": 1732107297.0,
+    "flair": "Study Help :table:",
+    "nsfw": false
+  },
+  "comments": [
+    "In the ESA, we had one descriptive question based on Verilog (HDL) code, while for ISAs, only MCQs are asked from the lab work.\n├── I wasn't asking about verilog but thank you lol\n\n in unit 3 we have assembly programs in our slides and tb. I wanted to know if they can ask us to write that stuff. Our syllabus is different from what 26 batch had so you guys may not have had the same thing.\n│   └── Oo I get it. Are you in AIML branch?\n│       └── No, cse\n│           └── Oh, in that case, I’m not sure because we had Verilog (HDL) codes in DDCO and ARM assembly codes in MPCA during the 4th semester (CSE).\n└── Bro where do i do assembly from?\n    └── Try understanding the codes. Use gpt or any other AI to help you understand. After some time you will start the logic and flow in the code. That's what I did!",
+    "In ISA they haven’t asked us to write assembly language codes"
+  ]
+}
