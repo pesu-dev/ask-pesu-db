@@ -1,6 +1,6 @@
 ---
-title: Ask PESU Subreddit Bot
-short_description: A Reddit bot that answers questions on r/PESU using AskPESU
+title: Ask PESU DB updater 
+short_description: A script that updates askPESU's DB automatically
 emoji: 🦀
 colorFrom: yellow
 colorTo: red
