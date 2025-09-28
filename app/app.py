@@ -1,139 +1,140 @@
-"""Main entry point of the r/PESU subreddit bot that replies to new posts on with answers generated from the AskPESU."""
-
-import argparse
-import datetime
-import logging
-from collections.abc import AsyncIterator
-from contextlib import asynccontextmanager
-
-import uvicorn
-import yaml
-from apscheduler.schedulers.background import BackgroundScheduler
-from dotenv import load_dotenv
-from fastapi import FastAPI, Request
+import os
+import praw
+from fastapi import FastAPI
 from fastapi.responses import JSONResponse
-
-from app.reddit import RedditClient
-
-
-@asynccontextmanager
-async def lifespan(app: FastAPI) -> AsyncIterator[None]:
-    """Lifespan event handler for startup and shutdown events."""
-    # Startup
-    logging.info("AskPESU Subreddit Bot API startup")
-    logging.info("Starting background scheduler for subreddit bot...")
-
-    # Load config
-    with open("conf/config.yaml") as f:
-        config = yaml.safe_load(f)
-
-    n = config.get("n", 10)
-    interval = config.get("interval", 10)
-
-    # Initialize Reddit client
-    client = RedditClient()
-
-    # Set up background scheduler
-    scheduler = BackgroundScheduler()
-    scheduler.add_job(
-        client.run,
-        "interval",
-        minutes=interval,
-        args=[interval, n],
-        next_run_time=datetime.datetime.now(datetime.UTC),
-    )
-    scheduler.start()
-    logging.info("Background scheduler started.")
-
-    yield
-
-    # Shutdown
-    scheduler.shutdown()
-    logging.info("Background scheduler stopped.")
-    logging.info("AskPESU Subreddit Bot shutdown.")
+from langchain_qdrant import QdrantVectorStore
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from qdrant_client import QdrantClient
+from qdrant_client.models import VectorParams
+import asyncio
+import threading
+from app.utils import *
+import uvicorn
+from dotenv import load_dotenv
 
 
-app = FastAPI(
-    title="AskPESU Subreddit Bot API",
-    description="Backend APIs for AskPESU Subreddit Bot, a question-answering bot for r/PESU.",
-    version="0.1.0",
-    docs_url="/",
-    lifespan=lifespan,
-    openapi_tags=[
-        {
-            "name": "Monitoring",
-            "description": "Health checks and other monitoring endpoints.",
-        },
-    ],
-)
+app = FastAPI()
+
+vector_store = None
+reddit = None
+subreddit = None
+collection_name = "ask-pesu-v2"
+client_id = os.getenv("reddit_client_id")
+client_secret = os.getenv("reddit_client_secret")
+qdrant_url = os.getenv("qdrant_url")
+qdrant_api_key = os.getenv("qdrant_api_key")
 
 
-@app.exception_handler(Exception)
-async def unhandled_exception_handler(_request: Request, _exc: Exception) -> JSONResponse:
-    """Handler for unhandled exceptions."""
-    logging.exception("Unhandled exception occurred.")
-    return JSONResponse(
-        status_code=500,
-        content={
-            "status": False,
-            "message": "Internal Server Error. Please try again later.",
-            "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-        },
+
+
+def update_chunk(chunk_id: str, text: str, metadata: dict):
+    """Overwrite if chunk exists, else add to Qdrant."""
+    vector_store.add_texts(
+        texts=[text],
+        metadatas=[metadata],
+        ids=[chunk_id],
     )
 
 
-@app.get(
-    "/health",
-    response_class=JSONResponse,
-    tags=["Monitoring"],
-)
-async def health() -> JSONResponse:
-    """Health check endpoint."""
-    logging.debug("Health check requested.")
-    return JSONResponse(
-        status_code=200,
-        content={
-            "status": True,
-            "message": "ok",
-            "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-        },
+def get_root_comment(comment):
+    """Get root comment of the comment thread."""
+    parent = comment
+    while not parent.is_root:
+        parent = parent.parent()
+    return parent
+
+
+
+def listen_comments():
+    """Main listener loop for new comments."""
+    for comment in subreddit.stream.comments(skip_existing=True):
+        author = str(comment.author).lower()
+        if author == "automoderator":
+            continue
+    
+        submission = comment.submission
+        root_comment = get_root_comment(comment)
+    
+        print("Root comment:", root_comment.body)
+        print("Root ID:", root_comment.id)
+    
+        chunk = (
+            f"TITLE: {submission.title}\n"
+            f"CONTENT: {submission.selftext}\n"
+            f"COMMENT TREE: {build_thread_string(root_comment)}"
+        )
+    
+        metadata = {
+            "root_comment_id": root_comment.id,
+            "post_id": submission.id,
+            "author": str(submission.author) if submission.author else None,
+            "url": submission.url,
+            "permalink": "https://reddit.com" + submission.permalink,
+            "score": submission.score,
+            "upvote_ratio": submission.upvote_ratio,
+            "created_utc": submission.created_utc,
+            "flair": submission.link_flair_text,
+            "nsfw": submission.over_18,
+        }
+    
+        update_chunk(convert_to_uuid(root_comment.id), chunk, metadata) #using UUID as Qdrant expects UUID as the point/vector id in the DB
+        print("Updated chunk.")
+
+
+def background_listener():
+    """Run listener in a thread so FastAPI stays responsive."""
+    thread = threading.Thread(target=listen_comments, daemon=True)
+    thread.start()
+
+
+@app.on_event("startup")
+async def startup_event():
+    global vector_store, reddit, subreddit
+
+    client = QdrantClient(
+        url=qdrant_url,
+        api_key=qdrant_api_key,
+        timeout=120.0,
     )
+
+    embeddings = HuggingFaceEmbeddings(model_name="Alibaba-NLP/gte-modernbert-base",
+                                       # model_kwargs={"device": "cpu"}
+                                      )
+
+    try:
+        client.create_collection(
+            collection_name=collection_name,
+            vectors_config=VectorParams(size=768, distance="Cosine"),
+        )
+        print("Collection created")
+    except Exception:
+        print("Collection already exists")
+
+    vector_store = QdrantVectorStore(
+        client=client,
+        collection_name=collection_name,
+        embedding=embeddings,
+    )
+
+    reddit = praw.Reddit(
+        client_id=client_id,
+        client_secret=client_secret,
+        user_agent="langchain-reddit-loader",
+    )
+    subreddit = reddit.subreddit("PESU")
+
+    background_listener()
+    print("Background listener started.")
+
+
+@app.get("/health")
+async def health():
+    return JSONResponse({"status": "ok"})
 
 
 if __name__ == "__main__":
     # load environment variables from .env file
     load_dotenv()
 
-    # Set up argument parser for command line arguments
-    parser = argparse.ArgumentParser(
-        description="Run the FastAPI application for AskPESU Subreddit Bot API.",
-    )
-    parser.add_argument(
-        "--host",
-        type=str,
-        default="0.0.0.0",
-        help="Host to run the FastAPI application on. Default is 0.0.0.0",
-    )
-    parser.add_argument(
-        "--port",
-        type=int,
-        default=7860,
-        help="Port to run the FastAPI application on. Default is 7860",
-    )
-    parser.add_argument(
-        "--debug",
-        action="store_true",
-        help="Run the application in debug mode with detailed logging.",
-    )
-    args = parser.parse_args()
-
-    # Set up logging configuration
-    logging_level = logging.DEBUG if args.debug else logging.INFO
-    logging.basicConfig(
-        level=logging_level,
-        format="%(asctime)s - %(levelname)s - %(filename)s:%(funcName)s:%(lineno)d - %(message)s",
-        filemode="w",
-    )
-
     # Run the app
-    uvicorn.run("app.app:app", host=args.host, port=args.port, reload=args.debug)
+    uvicorn.run("app.app:app", host="0.0.0.0", port=7860)
