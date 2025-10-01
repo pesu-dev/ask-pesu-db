@@ -6,9 +6,8 @@ from langchain_qdrant import QdrantVectorStore
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams
-import asyncio
 import threading
-from app.utils import *
+from app.utils import build_thread_string, convert_to_uuid
 import uvicorn
 from dotenv import load_dotenv
 
