@@ -2,10 +2,10 @@ import uuid
 from anytree import Node, RenderTree
 
 
-
 def convert_to_uuid(string: str) -> str:
     """Convert Reddit comment ID to UUID."""
     return str(uuid.uuid5(uuid.NAMESPACE_OID, string))
+
 
 def build_anytree(comment, parent_node=None):
     try:
@@ -16,6 +16,7 @@ def build_anytree(comment, parent_node=None):
     except Exception as e:
         print(f"Skipping comment due to error: {e}")
         return None
+
 
 def build_thread_string(root_comment):
     try:
