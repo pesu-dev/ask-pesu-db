@@ -24,8 +24,6 @@ qdrant_url = os.getenv("qdrant_url")
 qdrant_api_key = os.getenv("qdrant_api_key")
 
 
-
-
 def update_chunk(chunk_id: str, text: str, metadata: dict):
     """Overwrite if chunk exists, else add to Qdrant."""
     vector_store.add_texts(
@@ -43,26 +41,25 @@ def get_root_comment(comment):
     return parent
 
 
-
 def listen_comments():
     """Main listener loop for new comments."""
     for comment in subreddit.stream.comments(skip_existing=True):
         author = str(comment.author).lower()
         if author == "automoderator":
             continue
-    
+
         submission = comment.submission
         root_comment = get_root_comment(comment)
-    
+
         print("Root comment:", root_comment.body)
         print("Root ID:", root_comment.id)
-    
+
         chunk = (
             f"TITLE: {submission.title}\n"
             f"CONTENT: {submission.selftext}\n"
             f"COMMENT TREE: {build_thread_string(root_comment)}"
         )
-    
+
         metadata = {
             "root_comment_id": root_comment.id,
             "post_id": submission.id,
@@ -75,8 +72,10 @@ def listen_comments():
             "flair": submission.link_flair_text,
             "nsfw": submission.over_18,
         }
-    
-        update_chunk(convert_to_uuid(root_comment.id), chunk, metadata) #using UUID as Qdrant expects UUID as the point/vector id in the DB
+
+        update_chunk(
+            convert_to_uuid(root_comment.id), chunk, metadata
+        )  # using UUID as Qdrant expects UUID as the point/vector id in the DB
         print("Updated chunk.")
 
 
@@ -96,9 +95,10 @@ async def startup_event():
         timeout=120.0,
     )
 
-    embeddings = HuggingFaceEmbeddings(model_name="Alibaba-NLP/gte-modernbert-base",
-                                       # model_kwargs={"device": "cpu"}
-                                      )
+    embeddings = HuggingFaceEmbeddings(
+        model_name="Alibaba-NLP/gte-modernbert-base",
+        # model_kwargs={"device": "cpu"}
+    )
 
     try:
         client.create_collection(
