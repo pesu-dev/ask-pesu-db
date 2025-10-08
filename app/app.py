@@ -10,6 +10,7 @@ import threading
 from app.utils import build_thread_string, convert_to_uuid
 import uvicorn
 from dotenv import load_dotenv
+import traceback
 
 
 app = FastAPI()
@@ -43,40 +44,45 @@ def get_root_comment(comment):
 
 def listen_comments():
     """Main listener loop for new comments."""
-    for comment in subreddit.stream.comments(skip_existing=True):
-        author = str(comment.author).lower()
-        if author == "automoderator":
-            continue
+    while True:
+        try:
+            for comment in subreddit.stream.comments(skip_existing=True):
+                author = str(comment.author).lower()
+                if author == "automoderator":
+                    continue
 
-        submission = comment.submission
-        root_comment = get_root_comment(comment)
+                submission = comment.submission
+                root_comment = get_root_comment(comment)
 
-        print("Root comment:", root_comment.body)
-        print("Root ID:", root_comment.id)
+                print("Root comment:", root_comment.body)
+                print("Root ID:", root_comment.id)
 
-        chunk = (
-            f"TITLE: {submission.title}\n"
-            f"CONTENT: {submission.selftext}\n"
-            f"COMMENT TREE: {build_thread_string(root_comment)}"
-        )
+                chunk = (
+                    f"TITLE: {submission.title}\n"
+                    f"CONTENT: {submission.selftext}\n"
+                    f"COMMENT TREE: {build_thread_string(root_comment)}"
+                )
 
-        metadata = {
-            "root_comment_id": root_comment.id,
-            "post_id": submission.id,
-            "author": str(submission.author) if submission.author else None,
-            "url": submission.url,
-            "permalink": "https://reddit.com" + submission.permalink,
-            "score": submission.score,
-            "upvote_ratio": submission.upvote_ratio,
-            "created_utc": submission.created_utc,
-            "flair": submission.link_flair_text,
-            "nsfw": submission.over_18,
-        }
+                metadata = {
+                    "root_comment_id": root_comment.id,
+                    "post_id": submission.id,
+                    "author": str(submission.author) if submission.author else None,
+                    "url": submission.url,
+                    "permalink": "https://reddit.com" + submission.permalink,
+                    "score": submission.score,
+                    "upvote_ratio": submission.upvote_ratio,
+                    "created_utc": submission.created_utc,
+                    "flair": submission.link_flair_text,
+                    "nsfw": submission.over_18,
+                }
 
-        update_chunk(
-            convert_to_uuid(root_comment.id), chunk, metadata
-        )  # using UUID as Qdrant expects UUID as the point/vector id in the DB
-        print("Updated chunk.")
+                update_chunk(
+                    convert_to_uuid(root_comment.id), chunk, metadata
+                )  # using UUID as Qdrant expects UUID as the point/vector id in the DB
+                print("Updated chunk.")
+        except Exception:
+            print("Unexpected error in listener:")
+            traceback.print_exc()
 
 
 def background_listener():
