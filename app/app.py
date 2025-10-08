@@ -85,7 +85,6 @@ def listen_comments():
             traceback.print_exc()
 
 
-
 def background_listener():
     """Run listener in a thread so FastAPI stays responsive."""
     thread = threading.Thread(target=listen_comments, daemon=True)
